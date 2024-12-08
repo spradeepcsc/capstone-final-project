@@ -1,0 +1,1501 @@
+customer_id,product_name,product_id,interaction_type,interaction_date
+93363fcf-9748-4dad-a018-ccb23585f914,Savings accounts,2,purchased,2024-07-11
+93363fcf-9748-4dad-a018-ccb23585f914,Credit cards,6,purchased,2024-06-12
+93363fcf-9748-4dad-a018-ccb23585f914,Credit cards,6,clicked,2024-11-13
+93363fcf-9748-4dad-a018-ccb23585f914,Insurance,8,viewed,2024-08-21
+93363fcf-9748-4dad-a018-ccb23585f914,Credit cards,6,clicked,2024-09-25
+93363fcf-9748-4dad-a018-ccb23585f914,Credit cards,6,viewed,2024-02-21
+93363fcf-9748-4dad-a018-ccb23585f914,Mobile banking,4,viewed,2024-09-30
+93363fcf-9748-4dad-a018-ccb23585f914,Loans,1,purchased,2024-10-29
+93363fcf-9748-4dad-a018-ccb23585f914,Financial education,5,viewed,2024-07-15
+93363fcf-9748-4dad-a018-ccb23585f914,Mobile banking,4,viewed,2024-05-11
+93363fcf-9748-4dad-a018-ccb23585f914,Savings accounts,2,purchased,2024-06-13
+93363fcf-9748-4dad-a018-ccb23585f914,Savings accounts,2,purchased,2024-10-21
+93363fcf-9748-4dad-a018-ccb23585f914,Debit cards,7,clicked,2024-10-22
+93363fcf-9748-4dad-a018-ccb23585f914,Financial education,5,viewed,2024-08-15
+93363fcf-9748-4dad-a018-ccb23585f914,Mobile banking,4,viewed,2024-04-03
+822527c1-3571-4db1-bfbf-3897963c8486,Savings accounts,2,clicked,2024-06-04
+822527c1-3571-4db1-bfbf-3897963c8486,Insurance,8,purchased,2024-03-18
+822527c1-3571-4db1-bfbf-3897963c8486,Internet banking,3,viewed,2024-07-02
+822527c1-3571-4db1-bfbf-3897963c8486,Savings accounts,2,clicked,2024-09-25
+822527c1-3571-4db1-bfbf-3897963c8486,Internet banking,3,purchased,2024-05-19
+822527c1-3571-4db1-bfbf-3897963c8486,Loans,1,viewed,2024-09-20
+822527c1-3571-4db1-bfbf-3897963c8486,Internet banking,3,clicked,2024-03-11
+822527c1-3571-4db1-bfbf-3897963c8486,Insurance,8,viewed,2024-07-25
+822527c1-3571-4db1-bfbf-3897963c8486,Insurance,8,purchased,2024-08-15
+822527c1-3571-4db1-bfbf-3897963c8486,Financial education,5,clicked,2024-05-12
+822527c1-3571-4db1-bfbf-3897963c8486,Loans,1,purchased,2024-10-23
+822527c1-3571-4db1-bfbf-3897963c8486,Mobile banking,4,viewed,2024-05-27
+822527c1-3571-4db1-bfbf-3897963c8486,Credit cards,6,purchased,2024-10-14
+822527c1-3571-4db1-bfbf-3897963c8486,Internet banking,3,viewed,2024-09-12
+822527c1-3571-4db1-bfbf-3897963c8486,Insurance,8,viewed,2024-11-16
+c2f8640c-9b70-4dac-b023-1c7f6c4f45fa,Debit cards,7,viewed,2024-04-19
+c2f8640c-9b70-4dac-b023-1c7f6c4f45fa,Internet banking,3,viewed,2024-08-29
+c2f8640c-9b70-4dac-b023-1c7f6c4f45fa,Financial education,5,viewed,2024-05-08
+c2f8640c-9b70-4dac-b023-1c7f6c4f45fa,Internet banking,3,clicked,2024-12-04
+c2f8640c-9b70-4dac-b023-1c7f6c4f45fa,Mobile banking,4,purchased,2024-07-22
+c2f8640c-9b70-4dac-b023-1c7f6c4f45fa,Savings accounts,2,viewed,2024-01-05
+c2f8640c-9b70-4dac-b023-1c7f6c4f45fa,Internet banking,3,viewed,2024-11-28
+c2f8640c-9b70-4dac-b023-1c7f6c4f45fa,Savings accounts,2,viewed,2024-07-24
+c2f8640c-9b70-4dac-b023-1c7f6c4f45fa,Loans,1,purchased,2024-06-16
+c2f8640c-9b70-4dac-b023-1c7f6c4f45fa,Loans,1,viewed,2024-01-03
+c2f8640c-9b70-4dac-b023-1c7f6c4f45fa,Debit cards,7,viewed,2024-11-24
+c2f8640c-9b70-4dac-b023-1c7f6c4f45fa,Mobile banking,4,purchased,2024-09-14
+c2f8640c-9b70-4dac-b023-1c7f6c4f45fa,Internet banking,3,clicked,2024-05-29
+c2f8640c-9b70-4dac-b023-1c7f6c4f45fa,Mobile banking,4,viewed,2024-10-24
+c2f8640c-9b70-4dac-b023-1c7f6c4f45fa,Debit cards,7,viewed,2024-03-26
+fe672fb4-fdd5-4b62-9381-334a816dbd97,Loans,1,viewed,2024-10-19
+fe672fb4-fdd5-4b62-9381-334a816dbd97,Debit cards,7,clicked,2024-04-28
+fe672fb4-fdd5-4b62-9381-334a816dbd97,Mobile banking,4,viewed,2024-02-03
+fe672fb4-fdd5-4b62-9381-334a816dbd97,Financial education,5,viewed,2024-01-17
+fe672fb4-fdd5-4b62-9381-334a816dbd97,Debit cards,7,purchased,2024-07-02
+fe672fb4-fdd5-4b62-9381-334a816dbd97,Savings accounts,2,purchased,2024-12-03
+fe672fb4-fdd5-4b62-9381-334a816dbd97,Savings accounts,2,clicked,2024-11-01
+fe672fb4-fdd5-4b62-9381-334a816dbd97,Loans,1,purchased,2024-05-06
+fe672fb4-fdd5-4b62-9381-334a816dbd97,Credit cards,6,clicked,2024-10-17
+fe672fb4-fdd5-4b62-9381-334a816dbd97,Credit cards,6,clicked,2024-08-04
+fe672fb4-fdd5-4b62-9381-334a816dbd97,Internet banking,3,purchased,2024-03-10
+fe672fb4-fdd5-4b62-9381-334a816dbd97,Credit cards,6,viewed,2024-05-22
+fe672fb4-fdd5-4b62-9381-334a816dbd97,Loans,1,viewed,2024-01-29
+fe672fb4-fdd5-4b62-9381-334a816dbd97,Debit cards,7,viewed,2024-02-17
+fe672fb4-fdd5-4b62-9381-334a816dbd97,Debit cards,7,purchased,2024-05-03
+9045886e-f3af-4a0d-a440-af57207d481b,Savings accounts,2,purchased,2024-02-16
+9045886e-f3af-4a0d-a440-af57207d481b,Financial education,5,clicked,2024-09-25
+9045886e-f3af-4a0d-a440-af57207d481b,Mobile banking,4,viewed,2024-11-20
+9045886e-f3af-4a0d-a440-af57207d481b,Loans,1,viewed,2024-03-03
+9045886e-f3af-4a0d-a440-af57207d481b,Debit cards,7,viewed,2024-08-22
+9045886e-f3af-4a0d-a440-af57207d481b,Internet banking,3,purchased,2024-05-03
+9045886e-f3af-4a0d-a440-af57207d481b,Credit cards,6,clicked,2024-09-03
+9045886e-f3af-4a0d-a440-af57207d481b,Financial education,5,purchased,2024-03-05
+9045886e-f3af-4a0d-a440-af57207d481b,Savings accounts,2,purchased,2024-06-08
+9045886e-f3af-4a0d-a440-af57207d481b,Mobile banking,4,viewed,2024-06-12
+9045886e-f3af-4a0d-a440-af57207d481b,Mobile banking,4,clicked,2024-11-24
+9045886e-f3af-4a0d-a440-af57207d481b,Savings accounts,2,purchased,2024-03-03
+9045886e-f3af-4a0d-a440-af57207d481b,Savings accounts,2,clicked,2024-02-28
+9045886e-f3af-4a0d-a440-af57207d481b,Financial education,5,viewed,2024-08-22
+9045886e-f3af-4a0d-a440-af57207d481b,Debit cards,7,viewed,2024-01-22
+dc447251-cdfa-4069-9fca-561a05ab314a,Debit cards,7,clicked,2024-06-26
+dc447251-cdfa-4069-9fca-561a05ab314a,Internet banking,3,clicked,2024-08-15
+dc447251-cdfa-4069-9fca-561a05ab314a,Internet banking,3,viewed,2024-07-04
+dc447251-cdfa-4069-9fca-561a05ab314a,Loans,1,clicked,2024-03-22
+dc447251-cdfa-4069-9fca-561a05ab314a,Savings accounts,2,clicked,2024-06-07
+dc447251-cdfa-4069-9fca-561a05ab314a,Financial education,5,purchased,2024-05-07
+dc447251-cdfa-4069-9fca-561a05ab314a,Insurance,8,purchased,2024-02-04
+dc447251-cdfa-4069-9fca-561a05ab314a,Debit cards,7,purchased,2024-03-23
+dc447251-cdfa-4069-9fca-561a05ab314a,Financial education,5,clicked,2024-05-04
+dc447251-cdfa-4069-9fca-561a05ab314a,Financial education,5,viewed,2024-10-16
+dc447251-cdfa-4069-9fca-561a05ab314a,Savings accounts,2,viewed,2024-09-15
+dc447251-cdfa-4069-9fca-561a05ab314a,Mobile banking,4,viewed,2024-10-01
+dc447251-cdfa-4069-9fca-561a05ab314a,Debit cards,7,viewed,2024-04-28
+dc447251-cdfa-4069-9fca-561a05ab314a,Financial education,5,clicked,2024-02-10
+dc447251-cdfa-4069-9fca-561a05ab314a,Internet banking,3,purchased,2024-09-18
+706b0b7f-b5bb-4b62-bbd6-268bdb0d1f97,Debit cards,7,clicked,2024-08-31
+706b0b7f-b5bb-4b62-bbd6-268bdb0d1f97,Savings accounts,2,viewed,2024-11-24
+706b0b7f-b5bb-4b62-bbd6-268bdb0d1f97,Debit cards,7,viewed,2024-03-03
+706b0b7f-b5bb-4b62-bbd6-268bdb0d1f97,Internet banking,3,clicked,2024-06-15
+706b0b7f-b5bb-4b62-bbd6-268bdb0d1f97,Debit cards,7,purchased,2024-01-03
+706b0b7f-b5bb-4b62-bbd6-268bdb0d1f97,Mobile banking,4,purchased,2024-08-31
+706b0b7f-b5bb-4b62-bbd6-268bdb0d1f97,Credit cards,6,viewed,2024-04-04
+706b0b7f-b5bb-4b62-bbd6-268bdb0d1f97,Internet banking,3,purchased,2024-11-13
+706b0b7f-b5bb-4b62-bbd6-268bdb0d1f97,Loans,1,purchased,2024-02-21
+706b0b7f-b5bb-4b62-bbd6-268bdb0d1f97,Financial education,5,clicked,2024-08-26
+706b0b7f-b5bb-4b62-bbd6-268bdb0d1f97,Savings accounts,2,purchased,2024-07-31
+706b0b7f-b5bb-4b62-bbd6-268bdb0d1f97,Loans,1,purchased,2024-11-22
+706b0b7f-b5bb-4b62-bbd6-268bdb0d1f97,Loans,1,purchased,2024-10-22
+706b0b7f-b5bb-4b62-bbd6-268bdb0d1f97,Loans,1,clicked,2024-07-28
+706b0b7f-b5bb-4b62-bbd6-268bdb0d1f97,Insurance,8,purchased,2024-08-11
+43921faf-4984-4342-896b-df6be910ce6b,Savings accounts,2,clicked,2024-05-14
+43921faf-4984-4342-896b-df6be910ce6b,Savings accounts,2,clicked,2024-11-24
+43921faf-4984-4342-896b-df6be910ce6b,Loans,1,viewed,2024-04-06
+43921faf-4984-4342-896b-df6be910ce6b,Insurance,8,viewed,2024-02-12
+43921faf-4984-4342-896b-df6be910ce6b,Financial education,5,purchased,2024-08-07
+43921faf-4984-4342-896b-df6be910ce6b,Insurance,8,viewed,2024-01-23
+43921faf-4984-4342-896b-df6be910ce6b,Credit cards,6,purchased,2024-11-16
+43921faf-4984-4342-896b-df6be910ce6b,Insurance,8,viewed,2024-08-12
+43921faf-4984-4342-896b-df6be910ce6b,Internet banking,3,viewed,2024-07-07
+43921faf-4984-4342-896b-df6be910ce6b,Insurance,8,viewed,2024-06-08
+43921faf-4984-4342-896b-df6be910ce6b,Savings accounts,2,clicked,2024-10-28
+43921faf-4984-4342-896b-df6be910ce6b,Financial education,5,clicked,2024-08-07
+43921faf-4984-4342-896b-df6be910ce6b,Mobile banking,4,purchased,2024-06-08
+43921faf-4984-4342-896b-df6be910ce6b,Credit cards,6,purchased,2024-02-08
+43921faf-4984-4342-896b-df6be910ce6b,Financial education,5,viewed,2024-06-26
+57cf4a10-0312-425f-ab09-d4ac0a908489,Internet banking,3,purchased,2024-01-21
+57cf4a10-0312-425f-ab09-d4ac0a908489,Insurance,8,viewed,2024-08-31
+57cf4a10-0312-425f-ab09-d4ac0a908489,Internet banking,3,purchased,2024-01-16
+57cf4a10-0312-425f-ab09-d4ac0a908489,Debit cards,7,viewed,2024-05-17
+57cf4a10-0312-425f-ab09-d4ac0a908489,Debit cards,7,viewed,2024-10-31
+57cf4a10-0312-425f-ab09-d4ac0a908489,Loans,1,clicked,2024-02-08
+57cf4a10-0312-425f-ab09-d4ac0a908489,Loans,1,viewed,2024-05-30
+57cf4a10-0312-425f-ab09-d4ac0a908489,Loans,1,clicked,2024-03-01
+57cf4a10-0312-425f-ab09-d4ac0a908489,Loans,1,purchased,2024-10-26
+57cf4a10-0312-425f-ab09-d4ac0a908489,Debit cards,7,viewed,2024-06-17
+57cf4a10-0312-425f-ab09-d4ac0a908489,Savings accounts,2,clicked,2024-09-30
+57cf4a10-0312-425f-ab09-d4ac0a908489,Debit cards,7,viewed,2024-07-25
+57cf4a10-0312-425f-ab09-d4ac0a908489,Insurance,8,purchased,2024-04-12
+57cf4a10-0312-425f-ab09-d4ac0a908489,Credit cards,6,viewed,2024-09-26
+57cf4a10-0312-425f-ab09-d4ac0a908489,Financial education,5,viewed,2024-05-11
+d4598f82-b8c8-4ca5-b3f2-4826236a64f8,Internet banking,3,purchased,2024-07-22
+d4598f82-b8c8-4ca5-b3f2-4826236a64f8,Financial education,5,purchased,2024-10-26
+d4598f82-b8c8-4ca5-b3f2-4826236a64f8,Insurance,8,purchased,2024-01-29
+d4598f82-b8c8-4ca5-b3f2-4826236a64f8,Insurance,8,purchased,2024-07-03
+d4598f82-b8c8-4ca5-b3f2-4826236a64f8,Loans,1,clicked,2024-04-07
+d4598f82-b8c8-4ca5-b3f2-4826236a64f8,Mobile banking,4,viewed,2024-07-27
+d4598f82-b8c8-4ca5-b3f2-4826236a64f8,Savings accounts,2,clicked,2024-11-15
+d4598f82-b8c8-4ca5-b3f2-4826236a64f8,Savings accounts,2,viewed,2024-02-29
+d4598f82-b8c8-4ca5-b3f2-4826236a64f8,Credit cards,6,clicked,2024-08-10
+d4598f82-b8c8-4ca5-b3f2-4826236a64f8,Financial education,5,purchased,2024-12-05
+d4598f82-b8c8-4ca5-b3f2-4826236a64f8,Debit cards,7,viewed,2024-04-13
+d4598f82-b8c8-4ca5-b3f2-4826236a64f8,Mobile banking,4,viewed,2024-02-07
+d4598f82-b8c8-4ca5-b3f2-4826236a64f8,Mobile banking,4,clicked,2024-05-02
+d4598f82-b8c8-4ca5-b3f2-4826236a64f8,Savings accounts,2,clicked,2024-10-23
+d4598f82-b8c8-4ca5-b3f2-4826236a64f8,Debit cards,7,clicked,2024-03-18
+a1e949d8-98e4-4eed-b0fd-8d90a3723a49,Internet banking,3,purchased,2024-07-16
+a1e949d8-98e4-4eed-b0fd-8d90a3723a49,Internet banking,3,purchased,2024-11-09
+a1e949d8-98e4-4eed-b0fd-8d90a3723a49,Credit cards,6,clicked,2024-08-19
+a1e949d8-98e4-4eed-b0fd-8d90a3723a49,Mobile banking,4,clicked,2024-05-14
+a1e949d8-98e4-4eed-b0fd-8d90a3723a49,Loans,1,clicked,2024-07-02
+a1e949d8-98e4-4eed-b0fd-8d90a3723a49,Debit cards,7,purchased,2024-07-08
+a1e949d8-98e4-4eed-b0fd-8d90a3723a49,Internet banking,3,clicked,2024-08-15
+a1e949d8-98e4-4eed-b0fd-8d90a3723a49,Debit cards,7,clicked,2024-02-24
+a1e949d8-98e4-4eed-b0fd-8d90a3723a49,Internet banking,3,purchased,2024-05-19
+a1e949d8-98e4-4eed-b0fd-8d90a3723a49,Savings accounts,2,viewed,2024-10-05
+a1e949d8-98e4-4eed-b0fd-8d90a3723a49,Financial education,5,purchased,2024-02-28
+a1e949d8-98e4-4eed-b0fd-8d90a3723a49,Loans,1,clicked,2024-05-28
+a1e949d8-98e4-4eed-b0fd-8d90a3723a49,Mobile banking,4,clicked,2024-09-03
+a1e949d8-98e4-4eed-b0fd-8d90a3723a49,Debit cards,7,clicked,2024-04-19
+a1e949d8-98e4-4eed-b0fd-8d90a3723a49,Debit cards,7,purchased,2024-11-04
+f00575e9-cd8a-4041-9dd7-83b421d9be88,Credit cards,6,purchased,2024-09-11
+f00575e9-cd8a-4041-9dd7-83b421d9be88,Internet banking,3,purchased,2024-10-24
+f00575e9-cd8a-4041-9dd7-83b421d9be88,Insurance,8,viewed,2024-04-01
+f00575e9-cd8a-4041-9dd7-83b421d9be88,Internet banking,3,viewed,2024-07-03
+f00575e9-cd8a-4041-9dd7-83b421d9be88,Insurance,8,purchased,2024-05-03
+f00575e9-cd8a-4041-9dd7-83b421d9be88,Insurance,8,clicked,2024-04-10
+f00575e9-cd8a-4041-9dd7-83b421d9be88,Insurance,8,purchased,2024-02-29
+f00575e9-cd8a-4041-9dd7-83b421d9be88,Internet banking,3,viewed,2024-06-13
+f00575e9-cd8a-4041-9dd7-83b421d9be88,Insurance,8,clicked,2024-10-28
+f00575e9-cd8a-4041-9dd7-83b421d9be88,Financial education,5,viewed,2024-03-27
+f00575e9-cd8a-4041-9dd7-83b421d9be88,Credit cards,6,viewed,2024-05-12
+f00575e9-cd8a-4041-9dd7-83b421d9be88,Savings accounts,2,viewed,2024-03-20
+f00575e9-cd8a-4041-9dd7-83b421d9be88,Mobile banking,4,viewed,2024-07-20
+f00575e9-cd8a-4041-9dd7-83b421d9be88,Credit cards,6,purchased,2024-03-24
+f00575e9-cd8a-4041-9dd7-83b421d9be88,Savings accounts,2,clicked,2024-02-15
+ae9cc82c-1070-40ad-8213-e5266e779c08,Savings accounts,2,purchased,2024-09-12
+ae9cc82c-1070-40ad-8213-e5266e779c08,Insurance,8,viewed,2024-02-15
+ae9cc82c-1070-40ad-8213-e5266e779c08,Credit cards,6,purchased,2024-09-04
+ae9cc82c-1070-40ad-8213-e5266e779c08,Credit cards,6,viewed,2024-04-08
+ae9cc82c-1070-40ad-8213-e5266e779c08,Financial education,5,viewed,2024-11-30
+ae9cc82c-1070-40ad-8213-e5266e779c08,Debit cards,7,viewed,2024-06-22
+ae9cc82c-1070-40ad-8213-e5266e779c08,Savings accounts,2,clicked,2024-10-20
+ae9cc82c-1070-40ad-8213-e5266e779c08,Insurance,8,viewed,2024-09-22
+ae9cc82c-1070-40ad-8213-e5266e779c08,Internet banking,3,viewed,2024-05-17
+ae9cc82c-1070-40ad-8213-e5266e779c08,Savings accounts,2,clicked,2024-02-24
+ae9cc82c-1070-40ad-8213-e5266e779c08,Mobile banking,4,clicked,2024-03-16
+ae9cc82c-1070-40ad-8213-e5266e779c08,Debit cards,7,viewed,2024-07-27
+ae9cc82c-1070-40ad-8213-e5266e779c08,Credit cards,6,viewed,2024-04-10
+ae9cc82c-1070-40ad-8213-e5266e779c08,Loans,1,purchased,2024-04-01
+ae9cc82c-1070-40ad-8213-e5266e779c08,Loans,1,clicked,2024-10-19
+9a07b829-2806-41fa-a944-0a3bdf0e8037,Debit cards,7,purchased,2024-03-09
+9a07b829-2806-41fa-a944-0a3bdf0e8037,Mobile banking,4,purchased,2024-01-24
+9a07b829-2806-41fa-a944-0a3bdf0e8037,Financial education,5,purchased,2024-09-28
+9a07b829-2806-41fa-a944-0a3bdf0e8037,Mobile banking,4,viewed,2024-08-22
+9a07b829-2806-41fa-a944-0a3bdf0e8037,Loans,1,viewed,2024-11-27
+9a07b829-2806-41fa-a944-0a3bdf0e8037,Internet banking,3,purchased,2024-01-25
+9a07b829-2806-41fa-a944-0a3bdf0e8037,Mobile banking,4,purchased,2024-03-24
+9a07b829-2806-41fa-a944-0a3bdf0e8037,Insurance,8,viewed,2024-11-07
+9a07b829-2806-41fa-a944-0a3bdf0e8037,Mobile banking,4,purchased,2024-10-06
+9a07b829-2806-41fa-a944-0a3bdf0e8037,Debit cards,7,clicked,2024-05-26
+9a07b829-2806-41fa-a944-0a3bdf0e8037,Credit cards,6,purchased,2024-04-11
+9a07b829-2806-41fa-a944-0a3bdf0e8037,Credit cards,6,purchased,2024-06-07
+9a07b829-2806-41fa-a944-0a3bdf0e8037,Debit cards,7,clicked,2024-03-22
+9a07b829-2806-41fa-a944-0a3bdf0e8037,Mobile banking,4,viewed,2024-07-01
+9a07b829-2806-41fa-a944-0a3bdf0e8037,Insurance,8,purchased,2024-09-21
+135b85b0-5f38-447f-a0f1-e97f72a69480,Internet banking,3,viewed,2024-11-16
+135b85b0-5f38-447f-a0f1-e97f72a69480,Savings accounts,2,purchased,2024-05-21
+135b85b0-5f38-447f-a0f1-e97f72a69480,Loans,1,purchased,2024-09-25
+135b85b0-5f38-447f-a0f1-e97f72a69480,Financial education,5,purchased,2024-09-19
+135b85b0-5f38-447f-a0f1-e97f72a69480,Mobile banking,4,clicked,2024-10-11
+135b85b0-5f38-447f-a0f1-e97f72a69480,Credit cards,6,viewed,2024-10-27
+135b85b0-5f38-447f-a0f1-e97f72a69480,Internet banking,3,clicked,2024-09-05
+135b85b0-5f38-447f-a0f1-e97f72a69480,Savings accounts,2,viewed,2024-03-06
+135b85b0-5f38-447f-a0f1-e97f72a69480,Internet banking,3,clicked,2024-05-24
+135b85b0-5f38-447f-a0f1-e97f72a69480,Mobile banking,4,clicked,2024-06-01
+135b85b0-5f38-447f-a0f1-e97f72a69480,Insurance,8,clicked,2024-07-28
+135b85b0-5f38-447f-a0f1-e97f72a69480,Debit cards,7,purchased,2024-07-11
+135b85b0-5f38-447f-a0f1-e97f72a69480,Mobile banking,4,clicked,2024-11-05
+135b85b0-5f38-447f-a0f1-e97f72a69480,Insurance,8,clicked,2024-05-16
+135b85b0-5f38-447f-a0f1-e97f72a69480,Savings accounts,2,purchased,2024-11-13
+8a6faf85-110e-4c01-87ae-89090fdf2b32,Savings accounts,2,clicked,2024-05-16
+8a6faf85-110e-4c01-87ae-89090fdf2b32,Financial education,5,clicked,2024-02-12
+8a6faf85-110e-4c01-87ae-89090fdf2b32,Financial education,5,clicked,2024-04-19
+8a6faf85-110e-4c01-87ae-89090fdf2b32,Debit cards,7,clicked,2024-04-20
+8a6faf85-110e-4c01-87ae-89090fdf2b32,Credit cards,6,viewed,2024-03-30
+8a6faf85-110e-4c01-87ae-89090fdf2b32,Credit cards,6,clicked,2024-10-12
+8a6faf85-110e-4c01-87ae-89090fdf2b32,Internet banking,3,viewed,2024-05-12
+8a6faf85-110e-4c01-87ae-89090fdf2b32,Savings accounts,2,clicked,2024-09-01
+8a6faf85-110e-4c01-87ae-89090fdf2b32,Internet banking,3,viewed,2024-10-02
+8a6faf85-110e-4c01-87ae-89090fdf2b32,Credit cards,6,clicked,2024-01-20
+8a6faf85-110e-4c01-87ae-89090fdf2b32,Internet banking,3,clicked,2024-06-01
+8a6faf85-110e-4c01-87ae-89090fdf2b32,Credit cards,6,clicked,2024-02-23
+8a6faf85-110e-4c01-87ae-89090fdf2b32,Financial education,5,viewed,2024-05-04
+8a6faf85-110e-4c01-87ae-89090fdf2b32,Financial education,5,clicked,2024-11-23
+8a6faf85-110e-4c01-87ae-89090fdf2b32,Internet banking,3,viewed,2024-07-14
+dcb64662-2de1-4893-bf89-47b7d77a016e,Loans,1,clicked,2024-05-06
+dcb64662-2de1-4893-bf89-47b7d77a016e,Insurance,8,purchased,2024-04-23
+dcb64662-2de1-4893-bf89-47b7d77a016e,Internet banking,3,viewed,2024-01-19
+dcb64662-2de1-4893-bf89-47b7d77a016e,Mobile banking,4,viewed,2024-11-17
+dcb64662-2de1-4893-bf89-47b7d77a016e,Mobile banking,4,clicked,2024-06-20
+dcb64662-2de1-4893-bf89-47b7d77a016e,Insurance,8,purchased,2024-06-25
+dcb64662-2de1-4893-bf89-47b7d77a016e,Mobile banking,4,purchased,2024-07-25
+dcb64662-2de1-4893-bf89-47b7d77a016e,Mobile banking,4,purchased,2024-05-30
+dcb64662-2de1-4893-bf89-47b7d77a016e,Savings accounts,2,viewed,2024-07-09
+dcb64662-2de1-4893-bf89-47b7d77a016e,Credit cards,6,viewed,2024-10-11
+dcb64662-2de1-4893-bf89-47b7d77a016e,Internet banking,3,purchased,2024-07-15
+dcb64662-2de1-4893-bf89-47b7d77a016e,Loans,1,clicked,2024-09-26
+dcb64662-2de1-4893-bf89-47b7d77a016e,Loans,1,viewed,2024-08-01
+dcb64662-2de1-4893-bf89-47b7d77a016e,Internet banking,3,purchased,2024-11-26
+dcb64662-2de1-4893-bf89-47b7d77a016e,Internet banking,3,purchased,2024-04-17
+43deda03-d8ae-48b0-a811-0e4767139f91,Financial education,5,viewed,2024-09-29
+43deda03-d8ae-48b0-a811-0e4767139f91,Financial education,5,viewed,2024-02-05
+43deda03-d8ae-48b0-a811-0e4767139f91,Loans,1,viewed,2024-09-15
+43deda03-d8ae-48b0-a811-0e4767139f91,Internet banking,3,purchased,2024-11-15
+43deda03-d8ae-48b0-a811-0e4767139f91,Insurance,8,clicked,2024-10-13
+43deda03-d8ae-48b0-a811-0e4767139f91,Financial education,5,purchased,2024-04-12
+43deda03-d8ae-48b0-a811-0e4767139f91,Debit cards,7,clicked,2024-08-19
+43deda03-d8ae-48b0-a811-0e4767139f91,Mobile banking,4,clicked,2024-05-08
+43deda03-d8ae-48b0-a811-0e4767139f91,Credit cards,6,viewed,2024-08-08
+43deda03-d8ae-48b0-a811-0e4767139f91,Financial education,5,purchased,2024-06-29
+43deda03-d8ae-48b0-a811-0e4767139f91,Insurance,8,clicked,2024-02-15
+43deda03-d8ae-48b0-a811-0e4767139f91,Insurance,8,clicked,2024-10-03
+43deda03-d8ae-48b0-a811-0e4767139f91,Debit cards,7,purchased,2024-06-14
+43deda03-d8ae-48b0-a811-0e4767139f91,Credit cards,6,viewed,2024-05-19
+43deda03-d8ae-48b0-a811-0e4767139f91,Internet banking,3,purchased,2024-05-22
+bec3b14e-d8fd-4248-9485-da6654fe484e,Savings accounts,2,clicked,2024-01-17
+bec3b14e-d8fd-4248-9485-da6654fe484e,Insurance,8,clicked,2024-08-31
+bec3b14e-d8fd-4248-9485-da6654fe484e,Insurance,8,purchased,2024-02-08
+bec3b14e-d8fd-4248-9485-da6654fe484e,Financial education,5,purchased,2024-02-02
+bec3b14e-d8fd-4248-9485-da6654fe484e,Mobile banking,4,clicked,2024-11-10
+bec3b14e-d8fd-4248-9485-da6654fe484e,Loans,1,viewed,2024-03-08
+bec3b14e-d8fd-4248-9485-da6654fe484e,Internet banking,3,clicked,2024-02-04
+bec3b14e-d8fd-4248-9485-da6654fe484e,Loans,1,purchased,2024-07-23
+bec3b14e-d8fd-4248-9485-da6654fe484e,Loans,1,viewed,2024-05-23
+bec3b14e-d8fd-4248-9485-da6654fe484e,Insurance,8,viewed,2024-05-29
+bec3b14e-d8fd-4248-9485-da6654fe484e,Insurance,8,clicked,2024-09-01
+bec3b14e-d8fd-4248-9485-da6654fe484e,Loans,1,clicked,2024-06-30
+bec3b14e-d8fd-4248-9485-da6654fe484e,Debit cards,7,viewed,2024-04-14
+bec3b14e-d8fd-4248-9485-da6654fe484e,Mobile banking,4,viewed,2024-10-30
+bec3b14e-d8fd-4248-9485-da6654fe484e,Internet banking,3,purchased,2024-09-19
+9895ecd2-2a20-48fe-9eb1-cc810fc6c505,Internet banking,3,purchased,2024-12-03
+9895ecd2-2a20-48fe-9eb1-cc810fc6c505,Debit cards,7,clicked,2024-08-17
+9895ecd2-2a20-48fe-9eb1-cc810fc6c505,Internet banking,3,viewed,2024-11-11
+9895ecd2-2a20-48fe-9eb1-cc810fc6c505,Internet banking,3,purchased,2024-06-10
+9895ecd2-2a20-48fe-9eb1-cc810fc6c505,Loans,1,viewed,2024-05-23
+9895ecd2-2a20-48fe-9eb1-cc810fc6c505,Savings accounts,2,clicked,2024-05-10
+9895ecd2-2a20-48fe-9eb1-cc810fc6c505,Insurance,8,clicked,2024-01-08
+9895ecd2-2a20-48fe-9eb1-cc810fc6c505,Insurance,8,purchased,2024-10-09
+9895ecd2-2a20-48fe-9eb1-cc810fc6c505,Debit cards,7,purchased,2024-03-10
+9895ecd2-2a20-48fe-9eb1-cc810fc6c505,Loans,1,purchased,2024-11-13
+9895ecd2-2a20-48fe-9eb1-cc810fc6c505,Debit cards,7,clicked,2024-08-20
+9895ecd2-2a20-48fe-9eb1-cc810fc6c505,Insurance,8,viewed,2024-10-20
+9895ecd2-2a20-48fe-9eb1-cc810fc6c505,Savings accounts,2,purchased,2024-04-25
+9895ecd2-2a20-48fe-9eb1-cc810fc6c505,Mobile banking,4,purchased,2024-03-26
+9895ecd2-2a20-48fe-9eb1-cc810fc6c505,Insurance,8,purchased,2024-05-13
+26fb6833-1552-48ce-9018-84d5bb1d1c4a,Mobile banking,4,purchased,2024-04-28
+26fb6833-1552-48ce-9018-84d5bb1d1c4a,Insurance,8,viewed,2024-09-24
+26fb6833-1552-48ce-9018-84d5bb1d1c4a,Internet banking,3,purchased,2024-04-05
+26fb6833-1552-48ce-9018-84d5bb1d1c4a,Savings accounts,2,viewed,2024-09-10
+26fb6833-1552-48ce-9018-84d5bb1d1c4a,Financial education,5,purchased,2024-10-02
+26fb6833-1552-48ce-9018-84d5bb1d1c4a,Debit cards,7,purchased,2024-05-26
+26fb6833-1552-48ce-9018-84d5bb1d1c4a,Insurance,8,clicked,2024-06-19
+26fb6833-1552-48ce-9018-84d5bb1d1c4a,Internet banking,3,viewed,2024-01-08
+26fb6833-1552-48ce-9018-84d5bb1d1c4a,Credit cards,6,viewed,2024-10-18
+26fb6833-1552-48ce-9018-84d5bb1d1c4a,Loans,1,purchased,2024-07-26
+26fb6833-1552-48ce-9018-84d5bb1d1c4a,Loans,1,purchased,2024-10-05
+26fb6833-1552-48ce-9018-84d5bb1d1c4a,Loans,1,clicked,2024-09-16
+26fb6833-1552-48ce-9018-84d5bb1d1c4a,Loans,1,viewed,2024-11-04
+26fb6833-1552-48ce-9018-84d5bb1d1c4a,Debit cards,7,purchased,2024-05-31
+26fb6833-1552-48ce-9018-84d5bb1d1c4a,Financial education,5,purchased,2024-01-31
+fd7788c8-aed3-4ddc-a5b6-d014c6794b4c,Internet banking,3,purchased,2024-08-19
+fd7788c8-aed3-4ddc-a5b6-d014c6794b4c,Insurance,8,viewed,2024-02-29
+fd7788c8-aed3-4ddc-a5b6-d014c6794b4c,Loans,1,viewed,2024-03-26
+fd7788c8-aed3-4ddc-a5b6-d014c6794b4c,Mobile banking,4,purchased,2024-03-25
+fd7788c8-aed3-4ddc-a5b6-d014c6794b4c,Financial education,5,purchased,2024-10-22
+fd7788c8-aed3-4ddc-a5b6-d014c6794b4c,Insurance,8,purchased,2024-09-15
+fd7788c8-aed3-4ddc-a5b6-d014c6794b4c,Credit cards,6,purchased,2024-07-24
+fd7788c8-aed3-4ddc-a5b6-d014c6794b4c,Savings accounts,2,viewed,2024-07-31
+fd7788c8-aed3-4ddc-a5b6-d014c6794b4c,Mobile banking,4,purchased,2024-06-23
+fd7788c8-aed3-4ddc-a5b6-d014c6794b4c,Credit cards,6,purchased,2024-08-25
+fd7788c8-aed3-4ddc-a5b6-d014c6794b4c,Debit cards,7,viewed,2024-02-06
+fd7788c8-aed3-4ddc-a5b6-d014c6794b4c,Mobile banking,4,purchased,2024-11-21
+fd7788c8-aed3-4ddc-a5b6-d014c6794b4c,Credit cards,6,viewed,2024-07-03
+fd7788c8-aed3-4ddc-a5b6-d014c6794b4c,Loans,1,clicked,2024-04-03
+fd7788c8-aed3-4ddc-a5b6-d014c6794b4c,Loans,1,purchased,2024-01-13
+7beedae3-18cd-4b3a-944b-75d73c12ff33,Insurance,8,viewed,2024-07-25
+7beedae3-18cd-4b3a-944b-75d73c12ff33,Internet banking,3,clicked,2024-04-01
+7beedae3-18cd-4b3a-944b-75d73c12ff33,Debit cards,7,clicked,2024-08-30
+7beedae3-18cd-4b3a-944b-75d73c12ff33,Mobile banking,4,clicked,2024-10-24
+7beedae3-18cd-4b3a-944b-75d73c12ff33,Savings accounts,2,viewed,2024-06-29
+7beedae3-18cd-4b3a-944b-75d73c12ff33,Mobile banking,4,viewed,2024-05-16
+7beedae3-18cd-4b3a-944b-75d73c12ff33,Loans,1,viewed,2024-04-23
+7beedae3-18cd-4b3a-944b-75d73c12ff33,Financial education,5,clicked,2024-10-13
+7beedae3-18cd-4b3a-944b-75d73c12ff33,Debit cards,7,purchased,2024-01-19
+7beedae3-18cd-4b3a-944b-75d73c12ff33,Insurance,8,purchased,2024-02-23
+7beedae3-18cd-4b3a-944b-75d73c12ff33,Debit cards,7,viewed,2024-07-01
+7beedae3-18cd-4b3a-944b-75d73c12ff33,Debit cards,7,purchased,2024-06-17
+7beedae3-18cd-4b3a-944b-75d73c12ff33,Savings accounts,2,clicked,2024-06-14
+7beedae3-18cd-4b3a-944b-75d73c12ff33,Savings accounts,2,viewed,2024-07-11
+7beedae3-18cd-4b3a-944b-75d73c12ff33,Internet banking,3,purchased,2024-07-18
+06df217c-98aa-4d9e-961d-5b76f80c4f6a,Financial education,5,purchased,2024-06-28
+06df217c-98aa-4d9e-961d-5b76f80c4f6a,Loans,1,viewed,2024-12-05
+06df217c-98aa-4d9e-961d-5b76f80c4f6a,Credit cards,6,clicked,2024-03-15
+06df217c-98aa-4d9e-961d-5b76f80c4f6a,Insurance,8,clicked,2024-05-29
+06df217c-98aa-4d9e-961d-5b76f80c4f6a,Financial education,5,clicked,2024-09-07
+06df217c-98aa-4d9e-961d-5b76f80c4f6a,Debit cards,7,purchased,2024-10-03
+06df217c-98aa-4d9e-961d-5b76f80c4f6a,Mobile banking,4,clicked,2024-01-04
+06df217c-98aa-4d9e-961d-5b76f80c4f6a,Internet banking,3,clicked,2024-08-23
+06df217c-98aa-4d9e-961d-5b76f80c4f6a,Savings accounts,2,viewed,2024-06-25
+06df217c-98aa-4d9e-961d-5b76f80c4f6a,Credit cards,6,viewed,2024-11-26
+06df217c-98aa-4d9e-961d-5b76f80c4f6a,Loans,1,clicked,2024-07-30
+06df217c-98aa-4d9e-961d-5b76f80c4f6a,Mobile banking,4,viewed,2024-04-09
+06df217c-98aa-4d9e-961d-5b76f80c4f6a,Mobile banking,4,viewed,2024-12-07
+06df217c-98aa-4d9e-961d-5b76f80c4f6a,Savings accounts,2,purchased,2024-08-08
+06df217c-98aa-4d9e-961d-5b76f80c4f6a,Internet banking,3,purchased,2024-03-01
+fd93b431-2a5a-44f8-8052-a94a5472af4c,Credit cards,6,clicked,2024-04-03
+fd93b431-2a5a-44f8-8052-a94a5472af4c,Insurance,8,purchased,2024-02-12
+fd93b431-2a5a-44f8-8052-a94a5472af4c,Debit cards,7,clicked,2024-01-24
+fd93b431-2a5a-44f8-8052-a94a5472af4c,Financial education,5,purchased,2024-06-06
+fd93b431-2a5a-44f8-8052-a94a5472af4c,Internet banking,3,purchased,2024-09-30
+fd93b431-2a5a-44f8-8052-a94a5472af4c,Mobile banking,4,clicked,2024-04-04
+fd93b431-2a5a-44f8-8052-a94a5472af4c,Financial education,5,purchased,2024-02-09
+fd93b431-2a5a-44f8-8052-a94a5472af4c,Credit cards,6,purchased,2024-01-26
+fd93b431-2a5a-44f8-8052-a94a5472af4c,Financial education,5,viewed,2024-05-04
+fd93b431-2a5a-44f8-8052-a94a5472af4c,Loans,1,purchased,2024-02-26
+fd93b431-2a5a-44f8-8052-a94a5472af4c,Loans,1,clicked,2024-05-11
+fd93b431-2a5a-44f8-8052-a94a5472af4c,Loans,1,purchased,2024-03-01
+fd93b431-2a5a-44f8-8052-a94a5472af4c,Debit cards,7,clicked,2024-03-15
+fd93b431-2a5a-44f8-8052-a94a5472af4c,Savings accounts,2,purchased,2024-11-09
+fd93b431-2a5a-44f8-8052-a94a5472af4c,Internet banking,3,purchased,2024-10-16
+35c26ca3-7eed-4599-b5f1-7a8fc0571064,Mobile banking,4,viewed,2024-04-04
+35c26ca3-7eed-4599-b5f1-7a8fc0571064,Savings accounts,2,purchased,2024-01-23
+35c26ca3-7eed-4599-b5f1-7a8fc0571064,Loans,1,clicked,2024-07-14
+35c26ca3-7eed-4599-b5f1-7a8fc0571064,Loans,1,clicked,2024-09-04
+35c26ca3-7eed-4599-b5f1-7a8fc0571064,Savings accounts,2,viewed,2024-03-13
+35c26ca3-7eed-4599-b5f1-7a8fc0571064,Internet banking,3,viewed,2024-06-05
+35c26ca3-7eed-4599-b5f1-7a8fc0571064,Financial education,5,purchased,2024-05-16
+35c26ca3-7eed-4599-b5f1-7a8fc0571064,Financial education,5,purchased,2024-11-10
+35c26ca3-7eed-4599-b5f1-7a8fc0571064,Insurance,8,viewed,2024-08-27
+35c26ca3-7eed-4599-b5f1-7a8fc0571064,Insurance,8,purchased,2024-09-14
+35c26ca3-7eed-4599-b5f1-7a8fc0571064,Internet banking,3,viewed,2024-04-18
+35c26ca3-7eed-4599-b5f1-7a8fc0571064,Savings accounts,2,purchased,2024-03-01
+35c26ca3-7eed-4599-b5f1-7a8fc0571064,Mobile banking,4,purchased,2024-06-17
+35c26ca3-7eed-4599-b5f1-7a8fc0571064,Savings accounts,2,clicked,2024-11-10
+35c26ca3-7eed-4599-b5f1-7a8fc0571064,Mobile banking,4,purchased,2024-06-03
+61e520a6-92c3-4760-b15c-0105d4876a2f,Loans,1,viewed,2024-05-25
+61e520a6-92c3-4760-b15c-0105d4876a2f,Savings accounts,2,clicked,2024-03-27
+61e520a6-92c3-4760-b15c-0105d4876a2f,Financial education,5,clicked,2024-08-03
+61e520a6-92c3-4760-b15c-0105d4876a2f,Savings accounts,2,purchased,2024-08-14
+61e520a6-92c3-4760-b15c-0105d4876a2f,Internet banking,3,purchased,2024-09-05
+61e520a6-92c3-4760-b15c-0105d4876a2f,Credit cards,6,clicked,2024-01-31
+61e520a6-92c3-4760-b15c-0105d4876a2f,Insurance,8,clicked,2024-05-14
+61e520a6-92c3-4760-b15c-0105d4876a2f,Savings accounts,2,viewed,2024-06-19
+61e520a6-92c3-4760-b15c-0105d4876a2f,Internet banking,3,purchased,2024-11-22
+61e520a6-92c3-4760-b15c-0105d4876a2f,Debit cards,7,clicked,2024-07-24
+61e520a6-92c3-4760-b15c-0105d4876a2f,Savings accounts,2,purchased,2024-09-18
+61e520a6-92c3-4760-b15c-0105d4876a2f,Credit cards,6,purchased,2024-05-20
+61e520a6-92c3-4760-b15c-0105d4876a2f,Mobile banking,4,purchased,2024-04-15
+61e520a6-92c3-4760-b15c-0105d4876a2f,Internet banking,3,purchased,2024-01-17
+61e520a6-92c3-4760-b15c-0105d4876a2f,Savings accounts,2,viewed,2024-04-26
+07df3c01-3b29-4d5d-995f-ae84aabefb18,Loans,1,purchased,2024-11-19
+07df3c01-3b29-4d5d-995f-ae84aabefb18,Mobile banking,4,viewed,2024-04-18
+07df3c01-3b29-4d5d-995f-ae84aabefb18,Savings accounts,2,viewed,2024-12-01
+07df3c01-3b29-4d5d-995f-ae84aabefb18,Mobile banking,4,viewed,2024-01-03
+07df3c01-3b29-4d5d-995f-ae84aabefb18,Loans,1,purchased,2024-09-25
+07df3c01-3b29-4d5d-995f-ae84aabefb18,Insurance,8,viewed,2024-09-22
+07df3c01-3b29-4d5d-995f-ae84aabefb18,Mobile banking,4,viewed,2024-07-04
+07df3c01-3b29-4d5d-995f-ae84aabefb18,Credit cards,6,viewed,2024-04-10
+07df3c01-3b29-4d5d-995f-ae84aabefb18,Debit cards,7,viewed,2024-10-11
+07df3c01-3b29-4d5d-995f-ae84aabefb18,Internet banking,3,viewed,2024-04-06
+07df3c01-3b29-4d5d-995f-ae84aabefb18,Savings accounts,2,viewed,2024-07-29
+07df3c01-3b29-4d5d-995f-ae84aabefb18,Loans,1,viewed,2024-02-12
+07df3c01-3b29-4d5d-995f-ae84aabefb18,Loans,1,purchased,2024-04-26
+07df3c01-3b29-4d5d-995f-ae84aabefb18,Internet banking,3,purchased,2024-03-07
+07df3c01-3b29-4d5d-995f-ae84aabefb18,Insurance,8,viewed,2024-04-09
+3631dfee-34c8-44a7-a848-c033d67e2087,Mobile banking,4,purchased,2024-12-03
+3631dfee-34c8-44a7-a848-c033d67e2087,Savings accounts,2,purchased,2024-05-13
+3631dfee-34c8-44a7-a848-c033d67e2087,Insurance,8,viewed,2024-02-28
+3631dfee-34c8-44a7-a848-c033d67e2087,Insurance,8,viewed,2024-04-11
+3631dfee-34c8-44a7-a848-c033d67e2087,Debit cards,7,clicked,2024-01-21
+3631dfee-34c8-44a7-a848-c033d67e2087,Internet banking,3,clicked,2024-06-27
+3631dfee-34c8-44a7-a848-c033d67e2087,Mobile banking,4,viewed,2024-07-03
+3631dfee-34c8-44a7-a848-c033d67e2087,Mobile banking,4,clicked,2024-07-21
+3631dfee-34c8-44a7-a848-c033d67e2087,Loans,1,clicked,2024-03-29
+3631dfee-34c8-44a7-a848-c033d67e2087,Mobile banking,4,clicked,2024-08-11
+3631dfee-34c8-44a7-a848-c033d67e2087,Loans,1,viewed,2024-04-21
+3631dfee-34c8-44a7-a848-c033d67e2087,Mobile banking,4,clicked,2024-07-17
+3631dfee-34c8-44a7-a848-c033d67e2087,Loans,1,purchased,2024-02-12
+3631dfee-34c8-44a7-a848-c033d67e2087,Debit cards,7,viewed,2024-11-27
+3631dfee-34c8-44a7-a848-c033d67e2087,Internet banking,3,clicked,2024-07-08
+a48db6ff-efda-465b-b715-63548f11ed00,Financial education,5,purchased,2024-05-21
+a48db6ff-efda-465b-b715-63548f11ed00,Loans,1,clicked,2024-09-18
+a48db6ff-efda-465b-b715-63548f11ed00,Debit cards,7,viewed,2024-03-01
+a48db6ff-efda-465b-b715-63548f11ed00,Savings accounts,2,clicked,2024-03-18
+a48db6ff-efda-465b-b715-63548f11ed00,Debit cards,7,viewed,2024-08-04
+a48db6ff-efda-465b-b715-63548f11ed00,Savings accounts,2,clicked,2024-09-12
+a48db6ff-efda-465b-b715-63548f11ed00,Financial education,5,viewed,2024-07-16
+a48db6ff-efda-465b-b715-63548f11ed00,Savings accounts,2,viewed,2024-03-12
+a48db6ff-efda-465b-b715-63548f11ed00,Insurance,8,clicked,2024-11-16
+a48db6ff-efda-465b-b715-63548f11ed00,Savings accounts,2,clicked,2024-01-04
+a48db6ff-efda-465b-b715-63548f11ed00,Loans,1,purchased,2024-09-05
+a48db6ff-efda-465b-b715-63548f11ed00,Savings accounts,2,viewed,2024-01-01
+a48db6ff-efda-465b-b715-63548f11ed00,Loans,1,purchased,2024-08-30
+a48db6ff-efda-465b-b715-63548f11ed00,Debit cards,7,clicked,2024-04-09
+a48db6ff-efda-465b-b715-63548f11ed00,Loans,1,clicked,2024-03-10
+5a3c341a-2abf-4575-bd0b-2c6d9062e25e,Loans,1,purchased,2024-07-30
+5a3c341a-2abf-4575-bd0b-2c6d9062e25e,Credit cards,6,clicked,2024-06-06
+5a3c341a-2abf-4575-bd0b-2c6d9062e25e,Financial education,5,clicked,2024-04-15
+5a3c341a-2abf-4575-bd0b-2c6d9062e25e,Internet banking,3,clicked,2024-07-12
+5a3c341a-2abf-4575-bd0b-2c6d9062e25e,Savings accounts,2,clicked,2024-08-16
+5a3c341a-2abf-4575-bd0b-2c6d9062e25e,Loans,1,clicked,2024-07-07
+5a3c341a-2abf-4575-bd0b-2c6d9062e25e,Financial education,5,viewed,2024-09-04
+5a3c341a-2abf-4575-bd0b-2c6d9062e25e,Financial education,5,viewed,2024-12-04
+5a3c341a-2abf-4575-bd0b-2c6d9062e25e,Financial education,5,viewed,2024-08-17
+5a3c341a-2abf-4575-bd0b-2c6d9062e25e,Financial education,5,purchased,2024-11-06
+5a3c341a-2abf-4575-bd0b-2c6d9062e25e,Financial education,5,purchased,2024-03-22
+5a3c341a-2abf-4575-bd0b-2c6d9062e25e,Mobile banking,4,clicked,2024-05-04
+5a3c341a-2abf-4575-bd0b-2c6d9062e25e,Internet banking,3,clicked,2024-01-14
+5a3c341a-2abf-4575-bd0b-2c6d9062e25e,Loans,1,purchased,2024-02-08
+5a3c341a-2abf-4575-bd0b-2c6d9062e25e,Loans,1,purchased,2024-03-10
+90a51b2b-675e-4d3b-acf1-0e6946fc1eb9,Internet banking,3,clicked,2024-10-10
+90a51b2b-675e-4d3b-acf1-0e6946fc1eb9,Debit cards,7,viewed,2024-10-31
+90a51b2b-675e-4d3b-acf1-0e6946fc1eb9,Savings accounts,2,purchased,2024-08-17
+90a51b2b-675e-4d3b-acf1-0e6946fc1eb9,Savings accounts,2,viewed,2024-04-15
+90a51b2b-675e-4d3b-acf1-0e6946fc1eb9,Insurance,8,viewed,2024-11-29
+90a51b2b-675e-4d3b-acf1-0e6946fc1eb9,Internet banking,3,viewed,2024-03-07
+90a51b2b-675e-4d3b-acf1-0e6946fc1eb9,Credit cards,6,purchased,2024-04-24
+90a51b2b-675e-4d3b-acf1-0e6946fc1eb9,Internet banking,3,clicked,2024-08-24
+90a51b2b-675e-4d3b-acf1-0e6946fc1eb9,Internet banking,3,clicked,2024-10-05
+90a51b2b-675e-4d3b-acf1-0e6946fc1eb9,Credit cards,6,purchased,2024-02-28
+90a51b2b-675e-4d3b-acf1-0e6946fc1eb9,Internet banking,3,clicked,2024-03-25
+90a51b2b-675e-4d3b-acf1-0e6946fc1eb9,Internet banking,3,viewed,2024-01-08
+90a51b2b-675e-4d3b-acf1-0e6946fc1eb9,Loans,1,purchased,2024-09-21
+90a51b2b-675e-4d3b-acf1-0e6946fc1eb9,Savings accounts,2,purchased,2024-11-29
+90a51b2b-675e-4d3b-acf1-0e6946fc1eb9,Loans,1,clicked,2024-03-19
+16481b71-1053-4c67-8e9c-eb846d9fee3e,Credit cards,6,clicked,2024-02-08
+16481b71-1053-4c67-8e9c-eb846d9fee3e,Savings accounts,2,clicked,2024-09-05
+16481b71-1053-4c67-8e9c-eb846d9fee3e,Debit cards,7,clicked,2024-05-22
+16481b71-1053-4c67-8e9c-eb846d9fee3e,Financial education,5,viewed,2024-03-27
+16481b71-1053-4c67-8e9c-eb846d9fee3e,Financial education,5,clicked,2024-09-17
+16481b71-1053-4c67-8e9c-eb846d9fee3e,Credit cards,6,viewed,2024-06-25
+16481b71-1053-4c67-8e9c-eb846d9fee3e,Credit cards,6,viewed,2024-10-23
+16481b71-1053-4c67-8e9c-eb846d9fee3e,Savings accounts,2,purchased,2024-10-29
+16481b71-1053-4c67-8e9c-eb846d9fee3e,Insurance,8,viewed,2024-11-23
+16481b71-1053-4c67-8e9c-eb846d9fee3e,Insurance,8,viewed,2024-02-04
+16481b71-1053-4c67-8e9c-eb846d9fee3e,Internet banking,3,purchased,2024-02-27
+16481b71-1053-4c67-8e9c-eb846d9fee3e,Financial education,5,clicked,2024-01-09
+16481b71-1053-4c67-8e9c-eb846d9fee3e,Loans,1,viewed,2024-07-02
+16481b71-1053-4c67-8e9c-eb846d9fee3e,Loans,1,clicked,2024-10-16
+16481b71-1053-4c67-8e9c-eb846d9fee3e,Credit cards,6,clicked,2024-08-13
+2b765e3e-4304-4c5b-b999-8142bfe4312e,Mobile banking,4,purchased,2024-07-15
+2b765e3e-4304-4c5b-b999-8142bfe4312e,Credit cards,6,viewed,2024-08-12
+2b765e3e-4304-4c5b-b999-8142bfe4312e,Savings accounts,2,viewed,2024-10-06
+2b765e3e-4304-4c5b-b999-8142bfe4312e,Financial education,5,clicked,2024-11-20
+2b765e3e-4304-4c5b-b999-8142bfe4312e,Internet banking,3,viewed,2024-06-04
+2b765e3e-4304-4c5b-b999-8142bfe4312e,Mobile banking,4,purchased,2024-11-22
+2b765e3e-4304-4c5b-b999-8142bfe4312e,Loans,1,clicked,2024-08-01
+2b765e3e-4304-4c5b-b999-8142bfe4312e,Savings accounts,2,purchased,2024-03-18
+2b765e3e-4304-4c5b-b999-8142bfe4312e,Insurance,8,viewed,2024-01-16
+2b765e3e-4304-4c5b-b999-8142bfe4312e,Insurance,8,clicked,2024-05-30
+2b765e3e-4304-4c5b-b999-8142bfe4312e,Insurance,8,viewed,2024-01-01
+2b765e3e-4304-4c5b-b999-8142bfe4312e,Credit cards,6,viewed,2024-08-19
+2b765e3e-4304-4c5b-b999-8142bfe4312e,Debit cards,7,purchased,2024-09-29
+2b765e3e-4304-4c5b-b999-8142bfe4312e,Debit cards,7,viewed,2024-07-29
+2b765e3e-4304-4c5b-b999-8142bfe4312e,Credit cards,6,clicked,2024-02-15
+e864a063-a134-40bb-8e41-65110d3aad4e,Mobile banking,4,viewed,2024-04-21
+e864a063-a134-40bb-8e41-65110d3aad4e,Credit cards,6,viewed,2024-08-19
+e864a063-a134-40bb-8e41-65110d3aad4e,Savings accounts,2,viewed,2024-04-23
+e864a063-a134-40bb-8e41-65110d3aad4e,Internet banking,3,clicked,2024-10-13
+e864a063-a134-40bb-8e41-65110d3aad4e,Debit cards,7,purchased,2024-07-02
+e864a063-a134-40bb-8e41-65110d3aad4e,Insurance,8,clicked,2024-02-15
+e864a063-a134-40bb-8e41-65110d3aad4e,Savings accounts,2,purchased,2024-01-11
+e864a063-a134-40bb-8e41-65110d3aad4e,Mobile banking,4,purchased,2024-05-17
+e864a063-a134-40bb-8e41-65110d3aad4e,Savings accounts,2,viewed,2024-05-08
+e864a063-a134-40bb-8e41-65110d3aad4e,Credit cards,6,clicked,2024-11-28
+e864a063-a134-40bb-8e41-65110d3aad4e,Insurance,8,viewed,2024-10-03
+e864a063-a134-40bb-8e41-65110d3aad4e,Insurance,8,clicked,2024-12-07
+e864a063-a134-40bb-8e41-65110d3aad4e,Internet banking,3,purchased,2024-10-10
+e864a063-a134-40bb-8e41-65110d3aad4e,Insurance,8,clicked,2024-11-05
+e864a063-a134-40bb-8e41-65110d3aad4e,Credit cards,6,viewed,2024-10-03
+af4b1b7a-4f4c-4f60-ba9c-977933c74ec4,Financial education,5,clicked,2024-08-08
+af4b1b7a-4f4c-4f60-ba9c-977933c74ec4,Mobile banking,4,clicked,2024-09-16
+af4b1b7a-4f4c-4f60-ba9c-977933c74ec4,Loans,1,purchased,2024-07-07
+af4b1b7a-4f4c-4f60-ba9c-977933c74ec4,Savings accounts,2,viewed,2024-06-13
+af4b1b7a-4f4c-4f60-ba9c-977933c74ec4,Loans,1,purchased,2024-03-26
+af4b1b7a-4f4c-4f60-ba9c-977933c74ec4,Internet banking,3,purchased,2024-01-21
+af4b1b7a-4f4c-4f60-ba9c-977933c74ec4,Savings accounts,2,clicked,2024-09-22
+af4b1b7a-4f4c-4f60-ba9c-977933c74ec4,Mobile banking,4,viewed,2024-03-17
+af4b1b7a-4f4c-4f60-ba9c-977933c74ec4,Mobile banking,4,purchased,2024-06-19
+af4b1b7a-4f4c-4f60-ba9c-977933c74ec4,Internet banking,3,purchased,2024-01-17
+af4b1b7a-4f4c-4f60-ba9c-977933c74ec4,Internet banking,3,purchased,2024-04-05
+af4b1b7a-4f4c-4f60-ba9c-977933c74ec4,Debit cards,7,purchased,2024-07-19
+af4b1b7a-4f4c-4f60-ba9c-977933c74ec4,Savings accounts,2,viewed,2024-04-11
+af4b1b7a-4f4c-4f60-ba9c-977933c74ec4,Debit cards,7,viewed,2024-03-29
+af4b1b7a-4f4c-4f60-ba9c-977933c74ec4,Mobile banking,4,viewed,2024-07-11
+9db093f9-2ed7-4553-89e4-901b103b1938,Insurance,8,viewed,2024-08-01
+9db093f9-2ed7-4553-89e4-901b103b1938,Mobile banking,4,clicked,2024-08-02
+9db093f9-2ed7-4553-89e4-901b103b1938,Savings accounts,2,viewed,2024-01-29
+9db093f9-2ed7-4553-89e4-901b103b1938,Credit cards,6,purchased,2024-09-26
+9db093f9-2ed7-4553-89e4-901b103b1938,Internet banking,3,clicked,2024-10-25
+9db093f9-2ed7-4553-89e4-901b103b1938,Debit cards,7,purchased,2024-02-16
+9db093f9-2ed7-4553-89e4-901b103b1938,Mobile banking,4,viewed,2024-02-06
+9db093f9-2ed7-4553-89e4-901b103b1938,Debit cards,7,purchased,2024-11-19
+9db093f9-2ed7-4553-89e4-901b103b1938,Credit cards,6,purchased,2024-12-04
+9db093f9-2ed7-4553-89e4-901b103b1938,Savings accounts,2,purchased,2024-09-21
+9db093f9-2ed7-4553-89e4-901b103b1938,Savings accounts,2,purchased,2024-08-18
+9db093f9-2ed7-4553-89e4-901b103b1938,Loans,1,clicked,2024-02-01
+9db093f9-2ed7-4553-89e4-901b103b1938,Savings accounts,2,clicked,2024-09-13
+9db093f9-2ed7-4553-89e4-901b103b1938,Credit cards,6,viewed,2024-12-05
+9db093f9-2ed7-4553-89e4-901b103b1938,Debit cards,7,clicked,2024-09-10
+d22ce9b6-b993-4bb0-89a6-b7a01ffc0703,Debit cards,7,clicked,2024-11-27
+d22ce9b6-b993-4bb0-89a6-b7a01ffc0703,Financial education,5,purchased,2024-07-04
+d22ce9b6-b993-4bb0-89a6-b7a01ffc0703,Mobile banking,4,purchased,2024-08-25
+d22ce9b6-b993-4bb0-89a6-b7a01ffc0703,Savings accounts,2,viewed,2024-09-06
+d22ce9b6-b993-4bb0-89a6-b7a01ffc0703,Debit cards,7,purchased,2024-10-08
+d22ce9b6-b993-4bb0-89a6-b7a01ffc0703,Loans,1,clicked,2024-09-10
+d22ce9b6-b993-4bb0-89a6-b7a01ffc0703,Credit cards,6,viewed,2024-10-13
+d22ce9b6-b993-4bb0-89a6-b7a01ffc0703,Debit cards,7,clicked,2024-03-28
+d22ce9b6-b993-4bb0-89a6-b7a01ffc0703,Credit cards,6,viewed,2024-09-01
+d22ce9b6-b993-4bb0-89a6-b7a01ffc0703,Mobile banking,4,purchased,2024-10-05
+d22ce9b6-b993-4bb0-89a6-b7a01ffc0703,Financial education,5,viewed,2024-09-17
+d22ce9b6-b993-4bb0-89a6-b7a01ffc0703,Internet banking,3,purchased,2024-10-20
+d22ce9b6-b993-4bb0-89a6-b7a01ffc0703,Financial education,5,purchased,2024-03-15
+d22ce9b6-b993-4bb0-89a6-b7a01ffc0703,Debit cards,7,clicked,2024-11-13
+d22ce9b6-b993-4bb0-89a6-b7a01ffc0703,Mobile banking,4,clicked,2024-09-09
+f7412246-9fff-4821-bcb7-5f553c4adcc4,Mobile banking,4,clicked,2024-08-01
+f7412246-9fff-4821-bcb7-5f553c4adcc4,Credit cards,6,viewed,2024-04-04
+f7412246-9fff-4821-bcb7-5f553c4adcc4,Savings accounts,2,viewed,2024-03-27
+f7412246-9fff-4821-bcb7-5f553c4adcc4,Credit cards,6,clicked,2024-04-23
+f7412246-9fff-4821-bcb7-5f553c4adcc4,Mobile banking,4,purchased,2024-07-14
+f7412246-9fff-4821-bcb7-5f553c4adcc4,Internet banking,3,purchased,2024-07-16
+f7412246-9fff-4821-bcb7-5f553c4adcc4,Mobile banking,4,clicked,2024-09-16
+f7412246-9fff-4821-bcb7-5f553c4adcc4,Loans,1,viewed,2024-03-25
+f7412246-9fff-4821-bcb7-5f553c4adcc4,Credit cards,6,purchased,2024-10-27
+f7412246-9fff-4821-bcb7-5f553c4adcc4,Insurance,8,purchased,2024-09-16
+f7412246-9fff-4821-bcb7-5f553c4adcc4,Financial education,5,clicked,2024-08-30
+f7412246-9fff-4821-bcb7-5f553c4adcc4,Insurance,8,purchased,2024-07-20
+f7412246-9fff-4821-bcb7-5f553c4adcc4,Insurance,8,viewed,2024-11-11
+f7412246-9fff-4821-bcb7-5f553c4adcc4,Loans,1,viewed,2024-01-22
+f7412246-9fff-4821-bcb7-5f553c4adcc4,Credit cards,6,viewed,2024-03-09
+dafece99-9cb7-4b3e-b9ae-d89bdd65ac87,Insurance,8,viewed,2024-04-17
+dafece99-9cb7-4b3e-b9ae-d89bdd65ac87,Debit cards,7,purchased,2024-11-08
+dafece99-9cb7-4b3e-b9ae-d89bdd65ac87,Insurance,8,purchased,2024-05-31
+dafece99-9cb7-4b3e-b9ae-d89bdd65ac87,Insurance,8,clicked,2024-08-06
+dafece99-9cb7-4b3e-b9ae-d89bdd65ac87,Internet banking,3,clicked,2024-11-22
+dafece99-9cb7-4b3e-b9ae-d89bdd65ac87,Savings accounts,2,clicked,2024-10-19
+dafece99-9cb7-4b3e-b9ae-d89bdd65ac87,Financial education,5,clicked,2024-06-15
+dafece99-9cb7-4b3e-b9ae-d89bdd65ac87,Financial education,5,clicked,2024-10-15
+dafece99-9cb7-4b3e-b9ae-d89bdd65ac87,Internet banking,3,purchased,2024-11-23
+dafece99-9cb7-4b3e-b9ae-d89bdd65ac87,Insurance,8,clicked,2024-08-26
+dafece99-9cb7-4b3e-b9ae-d89bdd65ac87,Credit cards,6,purchased,2024-11-22
+dafece99-9cb7-4b3e-b9ae-d89bdd65ac87,Debit cards,7,purchased,2024-07-15
+dafece99-9cb7-4b3e-b9ae-d89bdd65ac87,Debit cards,7,purchased,2024-10-12
+dafece99-9cb7-4b3e-b9ae-d89bdd65ac87,Debit cards,7,purchased,2024-02-15
+dafece99-9cb7-4b3e-b9ae-d89bdd65ac87,Debit cards,7,viewed,2024-11-24
+547ed943-1a93-4c91-8dbf-054ba226850b,Credit cards,6,clicked,2024-03-27
+547ed943-1a93-4c91-8dbf-054ba226850b,Savings accounts,2,clicked,2024-04-11
+547ed943-1a93-4c91-8dbf-054ba226850b,Savings accounts,2,purchased,2024-10-02
+547ed943-1a93-4c91-8dbf-054ba226850b,Insurance,8,viewed,2024-04-03
+547ed943-1a93-4c91-8dbf-054ba226850b,Insurance,8,viewed,2024-04-14
+547ed943-1a93-4c91-8dbf-054ba226850b,Insurance,8,clicked,2024-06-30
+547ed943-1a93-4c91-8dbf-054ba226850b,Loans,1,purchased,2024-09-26
+547ed943-1a93-4c91-8dbf-054ba226850b,Financial education,5,purchased,2024-11-10
+547ed943-1a93-4c91-8dbf-054ba226850b,Mobile banking,4,purchased,2024-09-25
+547ed943-1a93-4c91-8dbf-054ba226850b,Loans,1,viewed,2024-06-15
+547ed943-1a93-4c91-8dbf-054ba226850b,Mobile banking,4,viewed,2024-11-20
+547ed943-1a93-4c91-8dbf-054ba226850b,Credit cards,6,viewed,2024-02-08
+547ed943-1a93-4c91-8dbf-054ba226850b,Loans,1,clicked,2024-09-21
+547ed943-1a93-4c91-8dbf-054ba226850b,Internet banking,3,purchased,2024-01-03
+547ed943-1a93-4c91-8dbf-054ba226850b,Financial education,5,purchased,2024-03-16
+413760c5-7bb8-4265-bec0-4fd3ca980ad7,Credit cards,6,viewed,2024-07-16
+413760c5-7bb8-4265-bec0-4fd3ca980ad7,Internet banking,3,viewed,2024-01-03
+413760c5-7bb8-4265-bec0-4fd3ca980ad7,Mobile banking,4,clicked,2024-05-13
+413760c5-7bb8-4265-bec0-4fd3ca980ad7,Financial education,5,purchased,2024-09-19
+413760c5-7bb8-4265-bec0-4fd3ca980ad7,Debit cards,7,purchased,2024-04-27
+413760c5-7bb8-4265-bec0-4fd3ca980ad7,Internet banking,3,clicked,2024-06-29
+413760c5-7bb8-4265-bec0-4fd3ca980ad7,Loans,1,viewed,2024-12-03
+413760c5-7bb8-4265-bec0-4fd3ca980ad7,Savings accounts,2,viewed,2024-07-10
+413760c5-7bb8-4265-bec0-4fd3ca980ad7,Loans,1,purchased,2024-05-13
+413760c5-7bb8-4265-bec0-4fd3ca980ad7,Debit cards,7,viewed,2024-11-05
+413760c5-7bb8-4265-bec0-4fd3ca980ad7,Mobile banking,4,purchased,2024-08-28
+413760c5-7bb8-4265-bec0-4fd3ca980ad7,Insurance,8,purchased,2024-11-12
+413760c5-7bb8-4265-bec0-4fd3ca980ad7,Insurance,8,purchased,2024-02-12
+413760c5-7bb8-4265-bec0-4fd3ca980ad7,Insurance,8,purchased,2024-10-09
+413760c5-7bb8-4265-bec0-4fd3ca980ad7,Insurance,8,purchased,2024-11-06
+fa4cc672-0d35-4f76-b701-0eb614572426,Credit cards,6,clicked,2024-05-03
+fa4cc672-0d35-4f76-b701-0eb614572426,Debit cards,7,purchased,2024-06-06
+fa4cc672-0d35-4f76-b701-0eb614572426,Loans,1,viewed,2024-04-12
+fa4cc672-0d35-4f76-b701-0eb614572426,Financial education,5,clicked,2024-08-17
+fa4cc672-0d35-4f76-b701-0eb614572426,Savings accounts,2,viewed,2024-07-07
+fa4cc672-0d35-4f76-b701-0eb614572426,Insurance,8,viewed,2024-03-10
+fa4cc672-0d35-4f76-b701-0eb614572426,Mobile banking,4,purchased,2024-11-06
+fa4cc672-0d35-4f76-b701-0eb614572426,Mobile banking,4,purchased,2024-09-17
+fa4cc672-0d35-4f76-b701-0eb614572426,Insurance,8,viewed,2024-08-20
+fa4cc672-0d35-4f76-b701-0eb614572426,Debit cards,7,clicked,2024-09-07
+fa4cc672-0d35-4f76-b701-0eb614572426,Debit cards,7,viewed,2024-07-24
+fa4cc672-0d35-4f76-b701-0eb614572426,Mobile banking,4,viewed,2024-06-15
+fa4cc672-0d35-4f76-b701-0eb614572426,Internet banking,3,viewed,2024-03-04
+fa4cc672-0d35-4f76-b701-0eb614572426,Financial education,5,clicked,2024-07-20
+fa4cc672-0d35-4f76-b701-0eb614572426,Credit cards,6,viewed,2024-07-04
+b71d4584-9810-488b-9d3d-b025999c9060,Debit cards,7,purchased,2024-04-27
+b71d4584-9810-488b-9d3d-b025999c9060,Mobile banking,4,viewed,2024-07-18
+b71d4584-9810-488b-9d3d-b025999c9060,Internet banking,3,purchased,2024-03-16
+b71d4584-9810-488b-9d3d-b025999c9060,Loans,1,viewed,2024-06-22
+b71d4584-9810-488b-9d3d-b025999c9060,Credit cards,6,purchased,2024-07-17
+b71d4584-9810-488b-9d3d-b025999c9060,Internet banking,3,clicked,2024-04-30
+b71d4584-9810-488b-9d3d-b025999c9060,Internet banking,3,purchased,2024-02-13
+b71d4584-9810-488b-9d3d-b025999c9060,Loans,1,clicked,2024-02-03
+b71d4584-9810-488b-9d3d-b025999c9060,Debit cards,7,purchased,2024-05-06
+b71d4584-9810-488b-9d3d-b025999c9060,Loans,1,viewed,2024-11-28
+b71d4584-9810-488b-9d3d-b025999c9060,Credit cards,6,clicked,2024-07-23
+b71d4584-9810-488b-9d3d-b025999c9060,Savings accounts,2,clicked,2024-06-16
+b71d4584-9810-488b-9d3d-b025999c9060,Loans,1,purchased,2024-03-08
+b71d4584-9810-488b-9d3d-b025999c9060,Savings accounts,2,purchased,2024-03-14
+b71d4584-9810-488b-9d3d-b025999c9060,Loans,1,clicked,2024-10-23
+6cd58be2-d94c-4a6f-bac8-b692d1d287e6,Financial education,5,clicked,2024-09-05
+6cd58be2-d94c-4a6f-bac8-b692d1d287e6,Savings accounts,2,clicked,2024-03-18
+6cd58be2-d94c-4a6f-bac8-b692d1d287e6,Mobile banking,4,clicked,2024-05-07
+6cd58be2-d94c-4a6f-bac8-b692d1d287e6,Internet banking,3,viewed,2024-01-30
+6cd58be2-d94c-4a6f-bac8-b692d1d287e6,Mobile banking,4,clicked,2024-07-25
+6cd58be2-d94c-4a6f-bac8-b692d1d287e6,Mobile banking,4,clicked,2024-07-30
+6cd58be2-d94c-4a6f-bac8-b692d1d287e6,Savings accounts,2,purchased,2024-05-24
+6cd58be2-d94c-4a6f-bac8-b692d1d287e6,Savings accounts,2,viewed,2024-05-04
+6cd58be2-d94c-4a6f-bac8-b692d1d287e6,Insurance,8,viewed,2024-06-23
+6cd58be2-d94c-4a6f-bac8-b692d1d287e6,Credit cards,6,viewed,2024-03-05
+6cd58be2-d94c-4a6f-bac8-b692d1d287e6,Mobile banking,4,clicked,2024-09-21
+6cd58be2-d94c-4a6f-bac8-b692d1d287e6,Insurance,8,viewed,2024-10-15
+6cd58be2-d94c-4a6f-bac8-b692d1d287e6,Internet banking,3,viewed,2024-09-30
+6cd58be2-d94c-4a6f-bac8-b692d1d287e6,Credit cards,6,clicked,2024-05-11
+6cd58be2-d94c-4a6f-bac8-b692d1d287e6,Savings accounts,2,viewed,2024-11-29
+62c4bd23-b04b-47b8-ac99-a7e7e2b154a7,Savings accounts,2,clicked,2024-08-26
+62c4bd23-b04b-47b8-ac99-a7e7e2b154a7,Savings accounts,2,viewed,2024-02-06
+62c4bd23-b04b-47b8-ac99-a7e7e2b154a7,Savings accounts,2,purchased,2024-06-21
+62c4bd23-b04b-47b8-ac99-a7e7e2b154a7,Insurance,8,clicked,2024-07-23
+62c4bd23-b04b-47b8-ac99-a7e7e2b154a7,Debit cards,7,purchased,2024-11-25
+62c4bd23-b04b-47b8-ac99-a7e7e2b154a7,Credit cards,6,viewed,2024-03-21
+62c4bd23-b04b-47b8-ac99-a7e7e2b154a7,Credit cards,6,clicked,2024-06-23
+62c4bd23-b04b-47b8-ac99-a7e7e2b154a7,Credit cards,6,purchased,2024-06-09
+62c4bd23-b04b-47b8-ac99-a7e7e2b154a7,Debit cards,7,clicked,2024-04-12
+62c4bd23-b04b-47b8-ac99-a7e7e2b154a7,Financial education,5,clicked,2024-05-08
+62c4bd23-b04b-47b8-ac99-a7e7e2b154a7,Insurance,8,viewed,2024-01-04
+62c4bd23-b04b-47b8-ac99-a7e7e2b154a7,Debit cards,7,viewed,2024-08-15
+62c4bd23-b04b-47b8-ac99-a7e7e2b154a7,Mobile banking,4,viewed,2024-05-30
+62c4bd23-b04b-47b8-ac99-a7e7e2b154a7,Credit cards,6,purchased,2024-04-30
+62c4bd23-b04b-47b8-ac99-a7e7e2b154a7,Loans,1,purchased,2024-10-02
+035c5d9e-4d97-4279-8083-5d16358f2384,Financial education,5,viewed,2024-08-05
+035c5d9e-4d97-4279-8083-5d16358f2384,Loans,1,purchased,2024-01-15
+035c5d9e-4d97-4279-8083-5d16358f2384,Internet banking,3,purchased,2024-04-04
+035c5d9e-4d97-4279-8083-5d16358f2384,Debit cards,7,purchased,2024-09-26
+035c5d9e-4d97-4279-8083-5d16358f2384,Credit cards,6,clicked,2024-03-14
+035c5d9e-4d97-4279-8083-5d16358f2384,Debit cards,7,purchased,2024-09-10
+035c5d9e-4d97-4279-8083-5d16358f2384,Internet banking,3,purchased,2024-07-16
+035c5d9e-4d97-4279-8083-5d16358f2384,Savings accounts,2,clicked,2024-06-30
+035c5d9e-4d97-4279-8083-5d16358f2384,Loans,1,clicked,2024-09-25
+035c5d9e-4d97-4279-8083-5d16358f2384,Debit cards,7,clicked,2024-12-03
+035c5d9e-4d97-4279-8083-5d16358f2384,Insurance,8,clicked,2024-03-14
+035c5d9e-4d97-4279-8083-5d16358f2384,Insurance,8,clicked,2024-10-27
+035c5d9e-4d97-4279-8083-5d16358f2384,Internet banking,3,viewed,2024-08-20
+035c5d9e-4d97-4279-8083-5d16358f2384,Mobile banking,4,purchased,2024-01-24
+035c5d9e-4d97-4279-8083-5d16358f2384,Mobile banking,4,viewed,2024-01-16
+96e37210-85b1-43d1-b5f2-86dfe770d816,Financial education,5,viewed,2024-08-27
+96e37210-85b1-43d1-b5f2-86dfe770d816,Insurance,8,purchased,2024-05-12
+96e37210-85b1-43d1-b5f2-86dfe770d816,Financial education,5,viewed,2024-10-21
+96e37210-85b1-43d1-b5f2-86dfe770d816,Internet banking,3,purchased,2024-05-25
+96e37210-85b1-43d1-b5f2-86dfe770d816,Credit cards,6,viewed,2024-07-04
+96e37210-85b1-43d1-b5f2-86dfe770d816,Insurance,8,purchased,2024-02-25
+96e37210-85b1-43d1-b5f2-86dfe770d816,Insurance,8,viewed,2024-07-16
+96e37210-85b1-43d1-b5f2-86dfe770d816,Loans,1,clicked,2024-05-06
+96e37210-85b1-43d1-b5f2-86dfe770d816,Internet banking,3,purchased,2024-01-11
+96e37210-85b1-43d1-b5f2-86dfe770d816,Loans,1,viewed,2024-12-05
+96e37210-85b1-43d1-b5f2-86dfe770d816,Mobile banking,4,purchased,2024-01-30
+96e37210-85b1-43d1-b5f2-86dfe770d816,Loans,1,purchased,2024-04-01
+96e37210-85b1-43d1-b5f2-86dfe770d816,Credit cards,6,viewed,2024-10-28
+96e37210-85b1-43d1-b5f2-86dfe770d816,Loans,1,viewed,2024-08-27
+96e37210-85b1-43d1-b5f2-86dfe770d816,Insurance,8,clicked,2024-04-04
+46446fa6-cd12-4b6f-87b0-754132afed2d,Savings accounts,2,clicked,2024-11-10
+46446fa6-cd12-4b6f-87b0-754132afed2d,Internet banking,3,viewed,2024-04-12
+46446fa6-cd12-4b6f-87b0-754132afed2d,Financial education,5,purchased,2024-08-22
+46446fa6-cd12-4b6f-87b0-754132afed2d,Financial education,5,viewed,2024-06-12
+46446fa6-cd12-4b6f-87b0-754132afed2d,Debit cards,7,purchased,2024-11-16
+46446fa6-cd12-4b6f-87b0-754132afed2d,Debit cards,7,viewed,2024-08-14
+46446fa6-cd12-4b6f-87b0-754132afed2d,Debit cards,7,purchased,2024-01-08
+46446fa6-cd12-4b6f-87b0-754132afed2d,Internet banking,3,clicked,2024-07-25
+46446fa6-cd12-4b6f-87b0-754132afed2d,Credit cards,6,clicked,2024-07-08
+46446fa6-cd12-4b6f-87b0-754132afed2d,Credit cards,6,clicked,2024-08-04
+46446fa6-cd12-4b6f-87b0-754132afed2d,Savings accounts,2,purchased,2024-03-01
+46446fa6-cd12-4b6f-87b0-754132afed2d,Debit cards,7,clicked,2024-10-05
+46446fa6-cd12-4b6f-87b0-754132afed2d,Credit cards,6,purchased,2024-04-17
+46446fa6-cd12-4b6f-87b0-754132afed2d,Debit cards,7,purchased,2024-07-04
+46446fa6-cd12-4b6f-87b0-754132afed2d,Mobile banking,4,viewed,2024-04-06
+26bb9987-f7e6-4fd1-a4b2-3aba5b65428d,Mobile banking,4,viewed,2024-09-26
+26bb9987-f7e6-4fd1-a4b2-3aba5b65428d,Mobile banking,4,purchased,2024-08-26
+26bb9987-f7e6-4fd1-a4b2-3aba5b65428d,Financial education,5,viewed,2024-07-16
+26bb9987-f7e6-4fd1-a4b2-3aba5b65428d,Internet banking,3,purchased,2024-04-30
+26bb9987-f7e6-4fd1-a4b2-3aba5b65428d,Debit cards,7,purchased,2024-03-05
+26bb9987-f7e6-4fd1-a4b2-3aba5b65428d,Credit cards,6,purchased,2024-11-30
+26bb9987-f7e6-4fd1-a4b2-3aba5b65428d,Mobile banking,4,purchased,2024-05-08
+26bb9987-f7e6-4fd1-a4b2-3aba5b65428d,Financial education,5,viewed,2024-12-03
+26bb9987-f7e6-4fd1-a4b2-3aba5b65428d,Savings accounts,2,purchased,2024-10-25
+26bb9987-f7e6-4fd1-a4b2-3aba5b65428d,Loans,1,purchased,2024-10-13
+26bb9987-f7e6-4fd1-a4b2-3aba5b65428d,Debit cards,7,purchased,2024-11-05
+26bb9987-f7e6-4fd1-a4b2-3aba5b65428d,Internet banking,3,clicked,2024-04-02
+26bb9987-f7e6-4fd1-a4b2-3aba5b65428d,Loans,1,clicked,2024-09-06
+26bb9987-f7e6-4fd1-a4b2-3aba5b65428d,Debit cards,7,purchased,2024-03-30
+26bb9987-f7e6-4fd1-a4b2-3aba5b65428d,Insurance,8,viewed,2024-09-07
+9894d2a0-5f2c-4269-9eb7-75ff878e284d,Internet banking,3,purchased,2024-05-19
+9894d2a0-5f2c-4269-9eb7-75ff878e284d,Debit cards,7,clicked,2024-11-29
+9894d2a0-5f2c-4269-9eb7-75ff878e284d,Savings accounts,2,viewed,2024-08-29
+9894d2a0-5f2c-4269-9eb7-75ff878e284d,Insurance,8,purchased,2024-08-12
+9894d2a0-5f2c-4269-9eb7-75ff878e284d,Savings accounts,2,purchased,2024-07-01
+9894d2a0-5f2c-4269-9eb7-75ff878e284d,Insurance,8,viewed,2024-06-25
+9894d2a0-5f2c-4269-9eb7-75ff878e284d,Insurance,8,clicked,2024-04-07
+9894d2a0-5f2c-4269-9eb7-75ff878e284d,Loans,1,clicked,2024-08-07
+9894d2a0-5f2c-4269-9eb7-75ff878e284d,Credit cards,6,clicked,2024-05-05
+9894d2a0-5f2c-4269-9eb7-75ff878e284d,Internet banking,3,clicked,2024-01-04
+9894d2a0-5f2c-4269-9eb7-75ff878e284d,Insurance,8,purchased,2024-06-14
+9894d2a0-5f2c-4269-9eb7-75ff878e284d,Loans,1,purchased,2024-10-01
+9894d2a0-5f2c-4269-9eb7-75ff878e284d,Savings accounts,2,viewed,2024-05-28
+9894d2a0-5f2c-4269-9eb7-75ff878e284d,Savings accounts,2,clicked,2024-10-26
+9894d2a0-5f2c-4269-9eb7-75ff878e284d,Savings accounts,2,viewed,2024-04-28
+24b6c878-cfcd-4935-9462-7bde3af71b0e,Savings accounts,2,clicked,2024-10-23
+24b6c878-cfcd-4935-9462-7bde3af71b0e,Financial education,5,viewed,2024-08-26
+24b6c878-cfcd-4935-9462-7bde3af71b0e,Internet banking,3,viewed,2024-11-15
+24b6c878-cfcd-4935-9462-7bde3af71b0e,Mobile banking,4,clicked,2024-11-18
+24b6c878-cfcd-4935-9462-7bde3af71b0e,Insurance,8,purchased,2024-10-06
+24b6c878-cfcd-4935-9462-7bde3af71b0e,Insurance,8,viewed,2024-04-09
+24b6c878-cfcd-4935-9462-7bde3af71b0e,Financial education,5,purchased,2024-03-09
+24b6c878-cfcd-4935-9462-7bde3af71b0e,Debit cards,7,viewed,2024-11-18
+24b6c878-cfcd-4935-9462-7bde3af71b0e,Savings accounts,2,clicked,2024-10-07
+24b6c878-cfcd-4935-9462-7bde3af71b0e,Loans,1,viewed,2024-06-12
+24b6c878-cfcd-4935-9462-7bde3af71b0e,Mobile banking,4,viewed,2024-06-16
+24b6c878-cfcd-4935-9462-7bde3af71b0e,Debit cards,7,clicked,2024-08-31
+24b6c878-cfcd-4935-9462-7bde3af71b0e,Financial education,5,viewed,2024-11-12
+24b6c878-cfcd-4935-9462-7bde3af71b0e,Mobile banking,4,purchased,2024-09-21
+24b6c878-cfcd-4935-9462-7bde3af71b0e,Debit cards,7,clicked,2024-05-10
+0c054c88-8abb-485f-9d33-362a0ba4cf72,Mobile banking,4,clicked,2024-01-10
+0c054c88-8abb-485f-9d33-362a0ba4cf72,Insurance,8,viewed,2024-04-28
+0c054c88-8abb-485f-9d33-362a0ba4cf72,Internet banking,3,purchased,2024-06-03
+0c054c88-8abb-485f-9d33-362a0ba4cf72,Loans,1,clicked,2024-06-13
+0c054c88-8abb-485f-9d33-362a0ba4cf72,Credit cards,6,purchased,2024-10-29
+0c054c88-8abb-485f-9d33-362a0ba4cf72,Mobile banking,4,viewed,2024-11-05
+0c054c88-8abb-485f-9d33-362a0ba4cf72,Insurance,8,purchased,2024-05-13
+0c054c88-8abb-485f-9d33-362a0ba4cf72,Financial education,5,clicked,2024-07-30
+0c054c88-8abb-485f-9d33-362a0ba4cf72,Savings accounts,2,clicked,2024-04-22
+0c054c88-8abb-485f-9d33-362a0ba4cf72,Savings accounts,2,purchased,2024-07-19
+0c054c88-8abb-485f-9d33-362a0ba4cf72,Debit cards,7,purchased,2024-01-20
+0c054c88-8abb-485f-9d33-362a0ba4cf72,Credit cards,6,viewed,2024-07-05
+0c054c88-8abb-485f-9d33-362a0ba4cf72,Financial education,5,clicked,2024-06-26
+0c054c88-8abb-485f-9d33-362a0ba4cf72,Mobile banking,4,viewed,2024-06-20
+0c054c88-8abb-485f-9d33-362a0ba4cf72,Financial education,5,clicked,2024-06-02
+a0c2c2b1-6b78-4ffc-b81f-8e935f9b594e,Internet banking,3,clicked,2024-10-09
+a0c2c2b1-6b78-4ffc-b81f-8e935f9b594e,Financial education,5,viewed,2024-10-18
+a0c2c2b1-6b78-4ffc-b81f-8e935f9b594e,Loans,1,purchased,2024-05-30
+a0c2c2b1-6b78-4ffc-b81f-8e935f9b594e,Financial education,5,viewed,2024-06-05
+a0c2c2b1-6b78-4ffc-b81f-8e935f9b594e,Savings accounts,2,purchased,2024-02-04
+a0c2c2b1-6b78-4ffc-b81f-8e935f9b594e,Credit cards,6,viewed,2024-10-06
+a0c2c2b1-6b78-4ffc-b81f-8e935f9b594e,Internet banking,3,purchased,2024-04-07
+a0c2c2b1-6b78-4ffc-b81f-8e935f9b594e,Debit cards,7,viewed,2024-11-22
+a0c2c2b1-6b78-4ffc-b81f-8e935f9b594e,Credit cards,6,clicked,2024-08-15
+a0c2c2b1-6b78-4ffc-b81f-8e935f9b594e,Savings accounts,2,viewed,2024-10-09
+a0c2c2b1-6b78-4ffc-b81f-8e935f9b594e,Credit cards,6,purchased,2024-08-28
+a0c2c2b1-6b78-4ffc-b81f-8e935f9b594e,Loans,1,clicked,2024-02-22
+a0c2c2b1-6b78-4ffc-b81f-8e935f9b594e,Credit cards,6,purchased,2024-08-10
+a0c2c2b1-6b78-4ffc-b81f-8e935f9b594e,Insurance,8,clicked,2024-04-16
+a0c2c2b1-6b78-4ffc-b81f-8e935f9b594e,Debit cards,7,purchased,2024-02-12
+8ab62f15-f86c-4ad0-a4df-01782189dc66,Financial education,5,viewed,2024-03-06
+8ab62f15-f86c-4ad0-a4df-01782189dc66,Credit cards,6,clicked,2024-09-22
+8ab62f15-f86c-4ad0-a4df-01782189dc66,Savings accounts,2,viewed,2024-09-19
+8ab62f15-f86c-4ad0-a4df-01782189dc66,Savings accounts,2,viewed,2024-04-22
+8ab62f15-f86c-4ad0-a4df-01782189dc66,Credit cards,6,viewed,2024-10-01
+8ab62f15-f86c-4ad0-a4df-01782189dc66,Mobile banking,4,clicked,2024-08-15
+8ab62f15-f86c-4ad0-a4df-01782189dc66,Mobile banking,4,purchased,2024-10-22
+8ab62f15-f86c-4ad0-a4df-01782189dc66,Credit cards,6,clicked,2024-03-07
+8ab62f15-f86c-4ad0-a4df-01782189dc66,Mobile banking,4,viewed,2024-10-14
+8ab62f15-f86c-4ad0-a4df-01782189dc66,Savings accounts,2,viewed,2024-05-10
+8ab62f15-f86c-4ad0-a4df-01782189dc66,Loans,1,purchased,2024-01-29
+8ab62f15-f86c-4ad0-a4df-01782189dc66,Mobile banking,4,viewed,2024-09-09
+8ab62f15-f86c-4ad0-a4df-01782189dc66,Loans,1,clicked,2024-05-04
+8ab62f15-f86c-4ad0-a4df-01782189dc66,Mobile banking,4,purchased,2024-11-22
+8ab62f15-f86c-4ad0-a4df-01782189dc66,Insurance,8,clicked,2024-09-12
+ba7339ab-3886-4b80-a1f2-e9d78b27d8b3,Financial education,5,purchased,2024-01-26
+ba7339ab-3886-4b80-a1f2-e9d78b27d8b3,Credit cards,6,purchased,2024-03-16
+ba7339ab-3886-4b80-a1f2-e9d78b27d8b3,Loans,1,purchased,2024-11-02
+ba7339ab-3886-4b80-a1f2-e9d78b27d8b3,Credit cards,6,purchased,2024-11-24
+ba7339ab-3886-4b80-a1f2-e9d78b27d8b3,Loans,1,purchased,2024-02-06
+ba7339ab-3886-4b80-a1f2-e9d78b27d8b3,Credit cards,6,purchased,2024-10-06
+ba7339ab-3886-4b80-a1f2-e9d78b27d8b3,Credit cards,6,viewed,2024-04-25
+ba7339ab-3886-4b80-a1f2-e9d78b27d8b3,Insurance,8,viewed,2024-01-25
+ba7339ab-3886-4b80-a1f2-e9d78b27d8b3,Credit cards,6,purchased,2024-05-13
+ba7339ab-3886-4b80-a1f2-e9d78b27d8b3,Internet banking,3,clicked,2024-05-25
+ba7339ab-3886-4b80-a1f2-e9d78b27d8b3,Mobile banking,4,viewed,2024-02-23
+ba7339ab-3886-4b80-a1f2-e9d78b27d8b3,Loans,1,clicked,2024-02-05
+ba7339ab-3886-4b80-a1f2-e9d78b27d8b3,Loans,1,purchased,2024-07-14
+ba7339ab-3886-4b80-a1f2-e9d78b27d8b3,Debit cards,7,clicked,2024-07-07
+ba7339ab-3886-4b80-a1f2-e9d78b27d8b3,Insurance,8,purchased,2024-09-21
+a279c5f5-8f55-44cc-bc1f-ade48a79c2fe,Internet banking,3,purchased,2024-03-22
+a279c5f5-8f55-44cc-bc1f-ade48a79c2fe,Internet banking,3,viewed,2024-02-16
+a279c5f5-8f55-44cc-bc1f-ade48a79c2fe,Internet banking,3,viewed,2024-07-16
+a279c5f5-8f55-44cc-bc1f-ade48a79c2fe,Internet banking,3,clicked,2024-08-10
+a279c5f5-8f55-44cc-bc1f-ade48a79c2fe,Debit cards,7,clicked,2024-07-08
+a279c5f5-8f55-44cc-bc1f-ade48a79c2fe,Internet banking,3,purchased,2024-11-04
+a279c5f5-8f55-44cc-bc1f-ade48a79c2fe,Credit cards,6,clicked,2024-02-06
+a279c5f5-8f55-44cc-bc1f-ade48a79c2fe,Internet banking,3,clicked,2024-09-20
+a279c5f5-8f55-44cc-bc1f-ade48a79c2fe,Debit cards,7,clicked,2024-09-11
+a279c5f5-8f55-44cc-bc1f-ade48a79c2fe,Financial education,5,viewed,2024-06-13
+a279c5f5-8f55-44cc-bc1f-ade48a79c2fe,Insurance,8,clicked,2024-11-29
+a279c5f5-8f55-44cc-bc1f-ade48a79c2fe,Insurance,8,viewed,2024-04-12
+a279c5f5-8f55-44cc-bc1f-ade48a79c2fe,Loans,1,purchased,2024-02-08
+a279c5f5-8f55-44cc-bc1f-ade48a79c2fe,Insurance,8,purchased,2024-10-18
+a279c5f5-8f55-44cc-bc1f-ade48a79c2fe,Insurance,8,viewed,2024-06-24
+47eba214-5233-4663-a76d-647cebff430b,Savings accounts,2,purchased,2024-08-20
+47eba214-5233-4663-a76d-647cebff430b,Financial education,5,viewed,2024-09-23
+47eba214-5233-4663-a76d-647cebff430b,Debit cards,7,clicked,2024-10-20
+47eba214-5233-4663-a76d-647cebff430b,Loans,1,purchased,2024-03-19
+47eba214-5233-4663-a76d-647cebff430b,Insurance,8,clicked,2024-08-24
+47eba214-5233-4663-a76d-647cebff430b,Debit cards,7,purchased,2024-01-15
+47eba214-5233-4663-a76d-647cebff430b,Financial education,5,viewed,2024-06-07
+47eba214-5233-4663-a76d-647cebff430b,Mobile banking,4,viewed,2024-07-01
+47eba214-5233-4663-a76d-647cebff430b,Loans,1,viewed,2024-08-12
+47eba214-5233-4663-a76d-647cebff430b,Debit cards,7,viewed,2024-11-27
+47eba214-5233-4663-a76d-647cebff430b,Savings accounts,2,clicked,2024-02-11
+47eba214-5233-4663-a76d-647cebff430b,Mobile banking,4,purchased,2024-01-26
+47eba214-5233-4663-a76d-647cebff430b,Internet banking,3,purchased,2024-10-31
+47eba214-5233-4663-a76d-647cebff430b,Financial education,5,purchased,2024-03-17
+47eba214-5233-4663-a76d-647cebff430b,Credit cards,6,purchased,2024-03-06
+73e885ec-0b22-4f61-86ec-a9802aec25ab,Credit cards,6,viewed,2024-11-28
+73e885ec-0b22-4f61-86ec-a9802aec25ab,Loans,1,purchased,2024-11-04
+73e885ec-0b22-4f61-86ec-a9802aec25ab,Internet banking,3,clicked,2024-02-14
+73e885ec-0b22-4f61-86ec-a9802aec25ab,Loans,1,clicked,2024-01-28
+73e885ec-0b22-4f61-86ec-a9802aec25ab,Loans,1,clicked,2024-05-05
+73e885ec-0b22-4f61-86ec-a9802aec25ab,Internet banking,3,purchased,2024-07-06
+73e885ec-0b22-4f61-86ec-a9802aec25ab,Mobile banking,4,purchased,2024-03-26
+73e885ec-0b22-4f61-86ec-a9802aec25ab,Debit cards,7,viewed,2024-04-04
+73e885ec-0b22-4f61-86ec-a9802aec25ab,Financial education,5,viewed,2024-02-16
+73e885ec-0b22-4f61-86ec-a9802aec25ab,Credit cards,6,viewed,2024-06-26
+73e885ec-0b22-4f61-86ec-a9802aec25ab,Debit cards,7,clicked,2024-06-10
+73e885ec-0b22-4f61-86ec-a9802aec25ab,Loans,1,clicked,2024-11-15
+73e885ec-0b22-4f61-86ec-a9802aec25ab,Credit cards,6,viewed,2024-08-23
+73e885ec-0b22-4f61-86ec-a9802aec25ab,Financial education,5,clicked,2024-05-13
+73e885ec-0b22-4f61-86ec-a9802aec25ab,Savings accounts,2,purchased,2024-09-27
+5126ef34-22ec-45b0-932d-bc1f228ad5c4,Loans,1,viewed,2024-09-21
+5126ef34-22ec-45b0-932d-bc1f228ad5c4,Mobile banking,4,clicked,2024-04-16
+5126ef34-22ec-45b0-932d-bc1f228ad5c4,Savings accounts,2,purchased,2024-03-10
+5126ef34-22ec-45b0-932d-bc1f228ad5c4,Savings accounts,2,viewed,2024-02-25
+5126ef34-22ec-45b0-932d-bc1f228ad5c4,Debit cards,7,purchased,2024-05-14
+5126ef34-22ec-45b0-932d-bc1f228ad5c4,Internet banking,3,viewed,2024-03-17
+5126ef34-22ec-45b0-932d-bc1f228ad5c4,Credit cards,6,viewed,2024-05-23
+5126ef34-22ec-45b0-932d-bc1f228ad5c4,Financial education,5,purchased,2024-07-18
+5126ef34-22ec-45b0-932d-bc1f228ad5c4,Debit cards,7,purchased,2024-04-01
+5126ef34-22ec-45b0-932d-bc1f228ad5c4,Mobile banking,4,clicked,2024-09-22
+5126ef34-22ec-45b0-932d-bc1f228ad5c4,Credit cards,6,viewed,2024-08-26
+5126ef34-22ec-45b0-932d-bc1f228ad5c4,Financial education,5,clicked,2024-08-07
+5126ef34-22ec-45b0-932d-bc1f228ad5c4,Internet banking,3,clicked,2024-08-19
+5126ef34-22ec-45b0-932d-bc1f228ad5c4,Loans,1,clicked,2024-04-07
+5126ef34-22ec-45b0-932d-bc1f228ad5c4,Internet banking,3,viewed,2024-05-30
+a49b72aa-1206-4daf-b3b9-8631899ff5fc,Savings accounts,2,viewed,2024-01-28
+a49b72aa-1206-4daf-b3b9-8631899ff5fc,Savings accounts,2,viewed,2024-07-25
+a49b72aa-1206-4daf-b3b9-8631899ff5fc,Insurance,8,purchased,2024-04-18
+a49b72aa-1206-4daf-b3b9-8631899ff5fc,Internet banking,3,clicked,2024-03-18
+a49b72aa-1206-4daf-b3b9-8631899ff5fc,Debit cards,7,clicked,2024-06-04
+a49b72aa-1206-4daf-b3b9-8631899ff5fc,Insurance,8,viewed,2024-03-22
+a49b72aa-1206-4daf-b3b9-8631899ff5fc,Internet banking,3,purchased,2024-07-20
+a49b72aa-1206-4daf-b3b9-8631899ff5fc,Internet banking,3,viewed,2024-02-07
+a49b72aa-1206-4daf-b3b9-8631899ff5fc,Loans,1,purchased,2024-11-11
+a49b72aa-1206-4daf-b3b9-8631899ff5fc,Loans,1,viewed,2024-09-10
+a49b72aa-1206-4daf-b3b9-8631899ff5fc,Financial education,5,purchased,2024-02-27
+a49b72aa-1206-4daf-b3b9-8631899ff5fc,Mobile banking,4,clicked,2024-07-05
+a49b72aa-1206-4daf-b3b9-8631899ff5fc,Debit cards,7,purchased,2024-03-06
+a49b72aa-1206-4daf-b3b9-8631899ff5fc,Debit cards,7,purchased,2024-03-14
+a49b72aa-1206-4daf-b3b9-8631899ff5fc,Credit cards,6,clicked,2024-03-25
+65d9b1b2-c830-40c4-a10b-0a4abf3be27a,Credit cards,6,purchased,2024-05-26
+65d9b1b2-c830-40c4-a10b-0a4abf3be27a,Loans,1,purchased,2024-02-09
+65d9b1b2-c830-40c4-a10b-0a4abf3be27a,Debit cards,7,clicked,2024-09-07
+65d9b1b2-c830-40c4-a10b-0a4abf3be27a,Financial education,5,viewed,2024-09-11
+65d9b1b2-c830-40c4-a10b-0a4abf3be27a,Mobile banking,4,purchased,2024-06-01
+65d9b1b2-c830-40c4-a10b-0a4abf3be27a,Savings accounts,2,clicked,2024-01-13
+65d9b1b2-c830-40c4-a10b-0a4abf3be27a,Insurance,8,purchased,2024-06-01
+65d9b1b2-c830-40c4-a10b-0a4abf3be27a,Credit cards,6,viewed,2024-10-30
+65d9b1b2-c830-40c4-a10b-0a4abf3be27a,Savings accounts,2,viewed,2024-01-19
+65d9b1b2-c830-40c4-a10b-0a4abf3be27a,Debit cards,7,purchased,2024-12-02
+65d9b1b2-c830-40c4-a10b-0a4abf3be27a,Credit cards,6,purchased,2024-06-10
+65d9b1b2-c830-40c4-a10b-0a4abf3be27a,Insurance,8,clicked,2024-01-03
+65d9b1b2-c830-40c4-a10b-0a4abf3be27a,Loans,1,viewed,2024-03-09
+65d9b1b2-c830-40c4-a10b-0a4abf3be27a,Savings accounts,2,clicked,2024-06-10
+65d9b1b2-c830-40c4-a10b-0a4abf3be27a,Insurance,8,clicked,2024-08-04
+2cec02c8-f053-42dc-98df-b2afdb409fe4,Loans,1,purchased,2024-07-08
+2cec02c8-f053-42dc-98df-b2afdb409fe4,Credit cards,6,viewed,2024-04-30
+2cec02c8-f053-42dc-98df-b2afdb409fe4,Financial education,5,viewed,2024-04-18
+2cec02c8-f053-42dc-98df-b2afdb409fe4,Savings accounts,2,clicked,2024-03-13
+2cec02c8-f053-42dc-98df-b2afdb409fe4,Credit cards,6,clicked,2024-04-28
+2cec02c8-f053-42dc-98df-b2afdb409fe4,Financial education,5,viewed,2024-11-26
+2cec02c8-f053-42dc-98df-b2afdb409fe4,Credit cards,6,clicked,2024-04-21
+2cec02c8-f053-42dc-98df-b2afdb409fe4,Savings accounts,2,purchased,2024-02-22
+2cec02c8-f053-42dc-98df-b2afdb409fe4,Internet banking,3,viewed,2024-03-06
+2cec02c8-f053-42dc-98df-b2afdb409fe4,Savings accounts,2,clicked,2024-05-30
+2cec02c8-f053-42dc-98df-b2afdb409fe4,Debit cards,7,purchased,2024-01-21
+2cec02c8-f053-42dc-98df-b2afdb409fe4,Loans,1,purchased,2024-07-14
+2cec02c8-f053-42dc-98df-b2afdb409fe4,Financial education,5,clicked,2024-05-19
+2cec02c8-f053-42dc-98df-b2afdb409fe4,Loans,1,purchased,2024-02-13
+2cec02c8-f053-42dc-98df-b2afdb409fe4,Loans,1,viewed,2024-04-01
+0496f43b-133c-418b-be01-4ab1e53f18f3,Credit cards,6,clicked,2024-10-25
+0496f43b-133c-418b-be01-4ab1e53f18f3,Debit cards,7,viewed,2024-05-09
+0496f43b-133c-418b-be01-4ab1e53f18f3,Insurance,8,clicked,2024-03-10
+0496f43b-133c-418b-be01-4ab1e53f18f3,Savings accounts,2,purchased,2024-05-20
+0496f43b-133c-418b-be01-4ab1e53f18f3,Financial education,5,viewed,2024-05-23
+0496f43b-133c-418b-be01-4ab1e53f18f3,Savings accounts,2,purchased,2024-11-24
+0496f43b-133c-418b-be01-4ab1e53f18f3,Debit cards,7,clicked,2024-08-04
+0496f43b-133c-418b-be01-4ab1e53f18f3,Insurance,8,clicked,2024-02-14
+0496f43b-133c-418b-be01-4ab1e53f18f3,Debit cards,7,viewed,2024-06-20
+0496f43b-133c-418b-be01-4ab1e53f18f3,Debit cards,7,clicked,2024-01-05
+0496f43b-133c-418b-be01-4ab1e53f18f3,Credit cards,6,purchased,2024-01-03
+0496f43b-133c-418b-be01-4ab1e53f18f3,Insurance,8,viewed,2024-04-15
+0496f43b-133c-418b-be01-4ab1e53f18f3,Credit cards,6,viewed,2024-03-28
+0496f43b-133c-418b-be01-4ab1e53f18f3,Financial education,5,viewed,2024-05-14
+0496f43b-133c-418b-be01-4ab1e53f18f3,Credit cards,6,purchased,2024-10-25
+5d7b88d2-3c14-43c5-95b9-d710e06de85d,Debit cards,7,purchased,2024-03-31
+5d7b88d2-3c14-43c5-95b9-d710e06de85d,Internet banking,3,clicked,2024-10-16
+5d7b88d2-3c14-43c5-95b9-d710e06de85d,Insurance,8,purchased,2024-04-28
+5d7b88d2-3c14-43c5-95b9-d710e06de85d,Debit cards,7,viewed,2024-08-02
+5d7b88d2-3c14-43c5-95b9-d710e06de85d,Financial education,5,clicked,2024-03-03
+5d7b88d2-3c14-43c5-95b9-d710e06de85d,Debit cards,7,purchased,2024-08-15
+5d7b88d2-3c14-43c5-95b9-d710e06de85d,Savings accounts,2,clicked,2024-06-14
+5d7b88d2-3c14-43c5-95b9-d710e06de85d,Loans,1,purchased,2024-06-05
+5d7b88d2-3c14-43c5-95b9-d710e06de85d,Mobile banking,4,viewed,2024-05-20
+5d7b88d2-3c14-43c5-95b9-d710e06de85d,Insurance,8,purchased,2024-05-13
+5d7b88d2-3c14-43c5-95b9-d710e06de85d,Financial education,5,purchased,2024-07-19
+5d7b88d2-3c14-43c5-95b9-d710e06de85d,Savings accounts,2,clicked,2024-06-12
+5d7b88d2-3c14-43c5-95b9-d710e06de85d,Savings accounts,2,purchased,2024-11-13
+5d7b88d2-3c14-43c5-95b9-d710e06de85d,Insurance,8,purchased,2024-03-29
+5d7b88d2-3c14-43c5-95b9-d710e06de85d,Mobile banking,4,purchased,2024-08-26
+d2876ef4-c157-40fa-bc04-8d7987b2c535,Loans,1,viewed,2024-06-22
+d2876ef4-c157-40fa-bc04-8d7987b2c535,Debit cards,7,purchased,2024-01-27
+d2876ef4-c157-40fa-bc04-8d7987b2c535,Internet banking,3,viewed,2024-07-01
+d2876ef4-c157-40fa-bc04-8d7987b2c535,Loans,1,purchased,2024-10-18
+d2876ef4-c157-40fa-bc04-8d7987b2c535,Insurance,8,clicked,2024-07-10
+d2876ef4-c157-40fa-bc04-8d7987b2c535,Financial education,5,clicked,2024-01-04
+d2876ef4-c157-40fa-bc04-8d7987b2c535,Insurance,8,purchased,2024-11-27
+d2876ef4-c157-40fa-bc04-8d7987b2c535,Debit cards,7,clicked,2024-10-21
+d2876ef4-c157-40fa-bc04-8d7987b2c535,Loans,1,purchased,2024-07-15
+d2876ef4-c157-40fa-bc04-8d7987b2c535,Insurance,8,viewed,2024-11-05
+d2876ef4-c157-40fa-bc04-8d7987b2c535,Debit cards,7,viewed,2024-04-19
+d2876ef4-c157-40fa-bc04-8d7987b2c535,Loans,1,clicked,2024-03-12
+d2876ef4-c157-40fa-bc04-8d7987b2c535,Credit cards,6,purchased,2024-06-24
+d2876ef4-c157-40fa-bc04-8d7987b2c535,Insurance,8,viewed,2024-07-02
+d2876ef4-c157-40fa-bc04-8d7987b2c535,Internet banking,3,purchased,2024-01-11
+eccf22cd-4d21-488f-bfa0-331c7ff46be4,Credit cards,6,clicked,2024-02-26
+eccf22cd-4d21-488f-bfa0-331c7ff46be4,Loans,1,clicked,2024-10-26
+eccf22cd-4d21-488f-bfa0-331c7ff46be4,Insurance,8,clicked,2024-06-28
+eccf22cd-4d21-488f-bfa0-331c7ff46be4,Mobile banking,4,viewed,2024-07-13
+eccf22cd-4d21-488f-bfa0-331c7ff46be4,Debit cards,7,purchased,2024-07-03
+eccf22cd-4d21-488f-bfa0-331c7ff46be4,Internet banking,3,clicked,2024-01-30
+eccf22cd-4d21-488f-bfa0-331c7ff46be4,Financial education,5,viewed,2024-08-16
+eccf22cd-4d21-488f-bfa0-331c7ff46be4,Financial education,5,viewed,2024-08-30
+eccf22cd-4d21-488f-bfa0-331c7ff46be4,Mobile banking,4,clicked,2024-03-23
+eccf22cd-4d21-488f-bfa0-331c7ff46be4,Loans,1,clicked,2024-09-30
+eccf22cd-4d21-488f-bfa0-331c7ff46be4,Loans,1,viewed,2024-02-08
+eccf22cd-4d21-488f-bfa0-331c7ff46be4,Debit cards,7,purchased,2024-02-23
+eccf22cd-4d21-488f-bfa0-331c7ff46be4,Credit cards,6,clicked,2024-02-03
+eccf22cd-4d21-488f-bfa0-331c7ff46be4,Insurance,8,clicked,2024-06-01
+eccf22cd-4d21-488f-bfa0-331c7ff46be4,Loans,1,clicked,2024-07-11
+b369aeeb-0435-43bf-a9c1-4e3c7c9985c6,Mobile banking,4,viewed,2024-07-24
+b369aeeb-0435-43bf-a9c1-4e3c7c9985c6,Internet banking,3,purchased,2024-07-27
+b369aeeb-0435-43bf-a9c1-4e3c7c9985c6,Loans,1,viewed,2024-02-18
+b369aeeb-0435-43bf-a9c1-4e3c7c9985c6,Mobile banking,4,clicked,2024-07-15
+b369aeeb-0435-43bf-a9c1-4e3c7c9985c6,Insurance,8,clicked,2024-09-15
+b369aeeb-0435-43bf-a9c1-4e3c7c9985c6,Credit cards,6,purchased,2024-07-14
+b369aeeb-0435-43bf-a9c1-4e3c7c9985c6,Credit cards,6,purchased,2024-05-18
+b369aeeb-0435-43bf-a9c1-4e3c7c9985c6,Debit cards,7,viewed,2024-02-16
+b369aeeb-0435-43bf-a9c1-4e3c7c9985c6,Internet banking,3,viewed,2024-09-11
+b369aeeb-0435-43bf-a9c1-4e3c7c9985c6,Savings accounts,2,purchased,2024-03-08
+b369aeeb-0435-43bf-a9c1-4e3c7c9985c6,Credit cards,6,viewed,2024-09-08
+b369aeeb-0435-43bf-a9c1-4e3c7c9985c6,Insurance,8,viewed,2024-10-28
+b369aeeb-0435-43bf-a9c1-4e3c7c9985c6,Internet banking,3,purchased,2024-09-29
+b369aeeb-0435-43bf-a9c1-4e3c7c9985c6,Internet banking,3,clicked,2024-07-13
+b369aeeb-0435-43bf-a9c1-4e3c7c9985c6,Savings accounts,2,clicked,2024-11-20
+3a317e99-aa2a-4e3c-84e8-9a70e2926060,Financial education,5,purchased,2024-01-12
+3a317e99-aa2a-4e3c-84e8-9a70e2926060,Savings accounts,2,clicked,2024-09-13
+3a317e99-aa2a-4e3c-84e8-9a70e2926060,Financial education,5,clicked,2024-05-25
+3a317e99-aa2a-4e3c-84e8-9a70e2926060,Loans,1,viewed,2024-03-15
+3a317e99-aa2a-4e3c-84e8-9a70e2926060,Credit cards,6,viewed,2024-06-23
+3a317e99-aa2a-4e3c-84e8-9a70e2926060,Debit cards,7,clicked,2024-01-27
+3a317e99-aa2a-4e3c-84e8-9a70e2926060,Savings accounts,2,purchased,2024-08-05
+3a317e99-aa2a-4e3c-84e8-9a70e2926060,Debit cards,7,viewed,2024-05-25
+3a317e99-aa2a-4e3c-84e8-9a70e2926060,Credit cards,6,clicked,2024-07-10
+3a317e99-aa2a-4e3c-84e8-9a70e2926060,Loans,1,viewed,2024-09-09
+3a317e99-aa2a-4e3c-84e8-9a70e2926060,Financial education,5,viewed,2024-08-09
+3a317e99-aa2a-4e3c-84e8-9a70e2926060,Financial education,5,purchased,2024-02-08
+3a317e99-aa2a-4e3c-84e8-9a70e2926060,Credit cards,6,clicked,2024-07-09
+3a317e99-aa2a-4e3c-84e8-9a70e2926060,Financial education,5,purchased,2024-11-05
+3a317e99-aa2a-4e3c-84e8-9a70e2926060,Credit cards,6,viewed,2024-04-27
+93845f21-c882-4fff-a068-c971ad7422c6,Mobile banking,4,purchased,2024-09-21
+93845f21-c882-4fff-a068-c971ad7422c6,Credit cards,6,viewed,2024-03-27
+93845f21-c882-4fff-a068-c971ad7422c6,Internet banking,3,clicked,2024-01-10
+93845f21-c882-4fff-a068-c971ad7422c6,Debit cards,7,viewed,2024-03-14
+93845f21-c882-4fff-a068-c971ad7422c6,Loans,1,clicked,2024-03-24
+93845f21-c882-4fff-a068-c971ad7422c6,Internet banking,3,purchased,2024-05-06
+93845f21-c882-4fff-a068-c971ad7422c6,Insurance,8,clicked,2024-09-09
+93845f21-c882-4fff-a068-c971ad7422c6,Savings accounts,2,purchased,2024-07-12
+93845f21-c882-4fff-a068-c971ad7422c6,Debit cards,7,purchased,2024-10-24
+93845f21-c882-4fff-a068-c971ad7422c6,Debit cards,7,clicked,2024-08-10
+93845f21-c882-4fff-a068-c971ad7422c6,Loans,1,purchased,2024-02-10
+93845f21-c882-4fff-a068-c971ad7422c6,Debit cards,7,viewed,2024-01-13
+93845f21-c882-4fff-a068-c971ad7422c6,Mobile banking,4,viewed,2024-09-28
+93845f21-c882-4fff-a068-c971ad7422c6,Mobile banking,4,clicked,2024-11-17
+93845f21-c882-4fff-a068-c971ad7422c6,Savings accounts,2,viewed,2024-11-26
+29cce9ed-8791-4700-ac65-f909eb54df40,Mobile banking,4,clicked,2024-06-18
+29cce9ed-8791-4700-ac65-f909eb54df40,Debit cards,7,viewed,2024-02-16
+29cce9ed-8791-4700-ac65-f909eb54df40,Loans,1,purchased,2024-09-04
+29cce9ed-8791-4700-ac65-f909eb54df40,Mobile banking,4,clicked,2024-05-27
+29cce9ed-8791-4700-ac65-f909eb54df40,Mobile banking,4,clicked,2024-09-27
+29cce9ed-8791-4700-ac65-f909eb54df40,Debit cards,7,clicked,2024-11-15
+29cce9ed-8791-4700-ac65-f909eb54df40,Credit cards,6,viewed,2024-06-23
+29cce9ed-8791-4700-ac65-f909eb54df40,Savings accounts,2,viewed,2024-11-20
+29cce9ed-8791-4700-ac65-f909eb54df40,Savings accounts,2,clicked,2024-03-04
+29cce9ed-8791-4700-ac65-f909eb54df40,Insurance,8,viewed,2024-03-12
+29cce9ed-8791-4700-ac65-f909eb54df40,Loans,1,purchased,2024-08-09
+29cce9ed-8791-4700-ac65-f909eb54df40,Mobile banking,4,purchased,2024-11-19
+29cce9ed-8791-4700-ac65-f909eb54df40,Debit cards,7,purchased,2024-10-03
+29cce9ed-8791-4700-ac65-f909eb54df40,Internet banking,3,clicked,2024-08-14
+29cce9ed-8791-4700-ac65-f909eb54df40,Debit cards,7,viewed,2024-01-09
+cd5cc5ae-a78a-4645-9981-d2d781802980,Debit cards,7,viewed,2024-03-13
+cd5cc5ae-a78a-4645-9981-d2d781802980,Internet banking,3,clicked,2024-10-10
+cd5cc5ae-a78a-4645-9981-d2d781802980,Debit cards,7,clicked,2024-09-02
+cd5cc5ae-a78a-4645-9981-d2d781802980,Financial education,5,clicked,2024-08-30
+cd5cc5ae-a78a-4645-9981-d2d781802980,Debit cards,7,viewed,2024-07-02
+cd5cc5ae-a78a-4645-9981-d2d781802980,Internet banking,3,purchased,2024-02-29
+cd5cc5ae-a78a-4645-9981-d2d781802980,Financial education,5,clicked,2024-09-12
+cd5cc5ae-a78a-4645-9981-d2d781802980,Debit cards,7,viewed,2024-11-30
+cd5cc5ae-a78a-4645-9981-d2d781802980,Loans,1,viewed,2024-11-09
+cd5cc5ae-a78a-4645-9981-d2d781802980,Insurance,8,clicked,2024-04-02
+cd5cc5ae-a78a-4645-9981-d2d781802980,Mobile banking,4,viewed,2024-01-25
+cd5cc5ae-a78a-4645-9981-d2d781802980,Internet banking,3,clicked,2024-01-11
+cd5cc5ae-a78a-4645-9981-d2d781802980,Credit cards,6,viewed,2024-06-19
+cd5cc5ae-a78a-4645-9981-d2d781802980,Debit cards,7,purchased,2024-08-09
+cd5cc5ae-a78a-4645-9981-d2d781802980,Insurance,8,viewed,2024-02-29
+5e609d01-3f92-4c5d-a358-32a4c8f79349,Mobile banking,4,viewed,2024-05-21
+5e609d01-3f92-4c5d-a358-32a4c8f79349,Internet banking,3,purchased,2024-08-21
+5e609d01-3f92-4c5d-a358-32a4c8f79349,Financial education,5,viewed,2024-10-25
+5e609d01-3f92-4c5d-a358-32a4c8f79349,Financial education,5,viewed,2024-09-10
+5e609d01-3f92-4c5d-a358-32a4c8f79349,Insurance,8,viewed,2024-02-12
+5e609d01-3f92-4c5d-a358-32a4c8f79349,Loans,1,purchased,2024-02-19
+5e609d01-3f92-4c5d-a358-32a4c8f79349,Debit cards,7,viewed,2024-09-13
+5e609d01-3f92-4c5d-a358-32a4c8f79349,Credit cards,6,viewed,2024-10-15
+5e609d01-3f92-4c5d-a358-32a4c8f79349,Savings accounts,2,viewed,2024-05-17
+5e609d01-3f92-4c5d-a358-32a4c8f79349,Loans,1,viewed,2024-11-02
+5e609d01-3f92-4c5d-a358-32a4c8f79349,Mobile banking,4,clicked,2024-03-13
+5e609d01-3f92-4c5d-a358-32a4c8f79349,Financial education,5,clicked,2024-05-27
+5e609d01-3f92-4c5d-a358-32a4c8f79349,Internet banking,3,viewed,2024-06-23
+5e609d01-3f92-4c5d-a358-32a4c8f79349,Financial education,5,purchased,2024-11-13
+5e609d01-3f92-4c5d-a358-32a4c8f79349,Internet banking,3,viewed,2024-07-04
+3da98db2-3b33-4384-87e9-ea9ae396e414,Loans,1,viewed,2024-05-01
+3da98db2-3b33-4384-87e9-ea9ae396e414,Loans,1,clicked,2024-06-02
+3da98db2-3b33-4384-87e9-ea9ae396e414,Internet banking,3,purchased,2024-03-17
+3da98db2-3b33-4384-87e9-ea9ae396e414,Internet banking,3,viewed,2024-06-11
+3da98db2-3b33-4384-87e9-ea9ae396e414,Loans,1,clicked,2024-08-19
+3da98db2-3b33-4384-87e9-ea9ae396e414,Savings accounts,2,viewed,2024-01-31
+3da98db2-3b33-4384-87e9-ea9ae396e414,Savings accounts,2,clicked,2024-04-22
+3da98db2-3b33-4384-87e9-ea9ae396e414,Mobile banking,4,clicked,2024-02-21
+3da98db2-3b33-4384-87e9-ea9ae396e414,Debit cards,7,viewed,2024-01-24
+3da98db2-3b33-4384-87e9-ea9ae396e414,Mobile banking,4,purchased,2024-11-13
+3da98db2-3b33-4384-87e9-ea9ae396e414,Financial education,5,clicked,2024-01-28
+3da98db2-3b33-4384-87e9-ea9ae396e414,Mobile banking,4,purchased,2024-07-15
+3da98db2-3b33-4384-87e9-ea9ae396e414,Internet banking,3,purchased,2024-04-11
+3da98db2-3b33-4384-87e9-ea9ae396e414,Loans,1,clicked,2024-01-09
+3da98db2-3b33-4384-87e9-ea9ae396e414,Mobile banking,4,purchased,2024-09-07
+e659c19c-e1f4-4513-9d33-b6a0e2e96204,Savings accounts,2,clicked,2024-06-06
+e659c19c-e1f4-4513-9d33-b6a0e2e96204,Savings accounts,2,clicked,2024-04-29
+e659c19c-e1f4-4513-9d33-b6a0e2e96204,Credit cards,6,viewed,2024-10-13
+e659c19c-e1f4-4513-9d33-b6a0e2e96204,Financial education,5,clicked,2024-02-10
+e659c19c-e1f4-4513-9d33-b6a0e2e96204,Savings accounts,2,purchased,2024-09-29
+e659c19c-e1f4-4513-9d33-b6a0e2e96204,Savings accounts,2,clicked,2024-03-11
+e659c19c-e1f4-4513-9d33-b6a0e2e96204,Internet banking,3,clicked,2024-08-25
+e659c19c-e1f4-4513-9d33-b6a0e2e96204,Loans,1,viewed,2024-08-09
+e659c19c-e1f4-4513-9d33-b6a0e2e96204,Mobile banking,4,clicked,2024-01-07
+e659c19c-e1f4-4513-9d33-b6a0e2e96204,Internet banking,3,clicked,2024-10-03
+e659c19c-e1f4-4513-9d33-b6a0e2e96204,Savings accounts,2,purchased,2024-08-07
+e659c19c-e1f4-4513-9d33-b6a0e2e96204,Credit cards,6,viewed,2024-10-05
+e659c19c-e1f4-4513-9d33-b6a0e2e96204,Mobile banking,4,purchased,2024-07-28
+e659c19c-e1f4-4513-9d33-b6a0e2e96204,Mobile banking,4,purchased,2024-05-17
+e659c19c-e1f4-4513-9d33-b6a0e2e96204,Financial education,5,purchased,2024-06-15
+160ea64d-a24b-44d6-a104-a9fefad1dc7c,Mobile banking,4,purchased,2024-11-06
+160ea64d-a24b-44d6-a104-a9fefad1dc7c,Mobile banking,4,viewed,2024-04-28
+160ea64d-a24b-44d6-a104-a9fefad1dc7c,Loans,1,viewed,2024-08-14
+160ea64d-a24b-44d6-a104-a9fefad1dc7c,Credit cards,6,viewed,2024-09-24
+160ea64d-a24b-44d6-a104-a9fefad1dc7c,Savings accounts,2,clicked,2024-11-28
+160ea64d-a24b-44d6-a104-a9fefad1dc7c,Financial education,5,viewed,2024-03-05
+160ea64d-a24b-44d6-a104-a9fefad1dc7c,Financial education,5,viewed,2024-08-14
+160ea64d-a24b-44d6-a104-a9fefad1dc7c,Financial education,5,purchased,2024-08-21
+160ea64d-a24b-44d6-a104-a9fefad1dc7c,Financial education,5,clicked,2024-01-15
+160ea64d-a24b-44d6-a104-a9fefad1dc7c,Mobile banking,4,viewed,2024-09-22
+160ea64d-a24b-44d6-a104-a9fefad1dc7c,Debit cards,7,viewed,2024-03-13
+160ea64d-a24b-44d6-a104-a9fefad1dc7c,Internet banking,3,purchased,2024-03-23
+160ea64d-a24b-44d6-a104-a9fefad1dc7c,Savings accounts,2,clicked,2024-07-02
+160ea64d-a24b-44d6-a104-a9fefad1dc7c,Savings accounts,2,purchased,2024-08-29
+160ea64d-a24b-44d6-a104-a9fefad1dc7c,Credit cards,6,purchased,2024-07-23
+5c9ce81e-048f-4a5e-aba2-3f9d45736806,Internet banking,3,purchased,2024-01-13
+5c9ce81e-048f-4a5e-aba2-3f9d45736806,Credit cards,6,clicked,2024-08-21
+5c9ce81e-048f-4a5e-aba2-3f9d45736806,Financial education,5,clicked,2024-11-04
+5c9ce81e-048f-4a5e-aba2-3f9d45736806,Credit cards,6,clicked,2024-10-03
+5c9ce81e-048f-4a5e-aba2-3f9d45736806,Savings accounts,2,purchased,2024-04-10
+5c9ce81e-048f-4a5e-aba2-3f9d45736806,Internet banking,3,clicked,2024-01-12
+5c9ce81e-048f-4a5e-aba2-3f9d45736806,Loans,1,purchased,2024-01-08
+5c9ce81e-048f-4a5e-aba2-3f9d45736806,Insurance,8,viewed,2024-04-10
+5c9ce81e-048f-4a5e-aba2-3f9d45736806,Loans,1,viewed,2024-07-08
+5c9ce81e-048f-4a5e-aba2-3f9d45736806,Credit cards,6,purchased,2024-09-26
+5c9ce81e-048f-4a5e-aba2-3f9d45736806,Savings accounts,2,purchased,2024-11-08
+5c9ce81e-048f-4a5e-aba2-3f9d45736806,Internet banking,3,clicked,2024-02-16
+5c9ce81e-048f-4a5e-aba2-3f9d45736806,Mobile banking,4,clicked,2024-10-04
+5c9ce81e-048f-4a5e-aba2-3f9d45736806,Savings accounts,2,clicked,2024-05-26
+5c9ce81e-048f-4a5e-aba2-3f9d45736806,Internet banking,3,clicked,2024-08-13
+7561f722-d017-446b-b3c9-cff6ab2413be,Internet banking,3,clicked,2024-09-29
+7561f722-d017-446b-b3c9-cff6ab2413be,Credit cards,6,clicked,2024-09-05
+7561f722-d017-446b-b3c9-cff6ab2413be,Internet banking,3,viewed,2024-04-29
+7561f722-d017-446b-b3c9-cff6ab2413be,Credit cards,6,clicked,2024-04-17
+7561f722-d017-446b-b3c9-cff6ab2413be,Insurance,8,viewed,2024-09-03
+7561f722-d017-446b-b3c9-cff6ab2413be,Financial education,5,clicked,2024-07-21
+7561f722-d017-446b-b3c9-cff6ab2413be,Insurance,8,viewed,2024-11-03
+7561f722-d017-446b-b3c9-cff6ab2413be,Internet banking,3,viewed,2024-02-22
+7561f722-d017-446b-b3c9-cff6ab2413be,Loans,1,viewed,2024-04-17
+7561f722-d017-446b-b3c9-cff6ab2413be,Internet banking,3,purchased,2024-09-13
+7561f722-d017-446b-b3c9-cff6ab2413be,Loans,1,purchased,2024-01-30
+7561f722-d017-446b-b3c9-cff6ab2413be,Loans,1,purchased,2024-11-09
+7561f722-d017-446b-b3c9-cff6ab2413be,Debit cards,7,clicked,2024-01-06
+7561f722-d017-446b-b3c9-cff6ab2413be,Loans,1,viewed,2024-09-16
+7561f722-d017-446b-b3c9-cff6ab2413be,Mobile banking,4,clicked,2024-05-10
+cc6b3366-0b59-432a-8cb5-daa554ebd105,Credit cards,6,viewed,2024-10-31
+cc6b3366-0b59-432a-8cb5-daa554ebd105,Insurance,8,clicked,2024-07-30
+cc6b3366-0b59-432a-8cb5-daa554ebd105,Credit cards,6,clicked,2024-06-01
+cc6b3366-0b59-432a-8cb5-daa554ebd105,Credit cards,6,clicked,2024-08-11
+cc6b3366-0b59-432a-8cb5-daa554ebd105,Loans,1,purchased,2024-04-26
+cc6b3366-0b59-432a-8cb5-daa554ebd105,Mobile banking,4,purchased,2024-04-17
+cc6b3366-0b59-432a-8cb5-daa554ebd105,Financial education,5,viewed,2024-05-21
+cc6b3366-0b59-432a-8cb5-daa554ebd105,Internet banking,3,purchased,2024-03-26
+cc6b3366-0b59-432a-8cb5-daa554ebd105,Loans,1,clicked,2024-06-30
+cc6b3366-0b59-432a-8cb5-daa554ebd105,Credit cards,6,purchased,2024-07-25
+cc6b3366-0b59-432a-8cb5-daa554ebd105,Financial education,5,viewed,2024-07-11
+cc6b3366-0b59-432a-8cb5-daa554ebd105,Credit cards,6,viewed,2024-07-22
+cc6b3366-0b59-432a-8cb5-daa554ebd105,Financial education,5,viewed,2024-01-20
+cc6b3366-0b59-432a-8cb5-daa554ebd105,Mobile banking,4,clicked,2024-02-03
+cc6b3366-0b59-432a-8cb5-daa554ebd105,Credit cards,6,clicked,2024-03-22
+f6abd87a-e3cf-4fb8-98cd-96767b8d46d2,Credit cards,6,clicked,2024-05-01
+f6abd87a-e3cf-4fb8-98cd-96767b8d46d2,Savings accounts,2,viewed,2024-02-13
+f6abd87a-e3cf-4fb8-98cd-96767b8d46d2,Financial education,5,clicked,2024-01-06
+f6abd87a-e3cf-4fb8-98cd-96767b8d46d2,Debit cards,7,clicked,2024-11-14
+f6abd87a-e3cf-4fb8-98cd-96767b8d46d2,Internet banking,3,viewed,2024-03-07
+f6abd87a-e3cf-4fb8-98cd-96767b8d46d2,Mobile banking,4,purchased,2024-11-11
+f6abd87a-e3cf-4fb8-98cd-96767b8d46d2,Savings accounts,2,viewed,2024-09-11
+f6abd87a-e3cf-4fb8-98cd-96767b8d46d2,Credit cards,6,viewed,2024-07-15
+f6abd87a-e3cf-4fb8-98cd-96767b8d46d2,Loans,1,clicked,2024-07-28
+f6abd87a-e3cf-4fb8-98cd-96767b8d46d2,Credit cards,6,clicked,2024-08-23
+f6abd87a-e3cf-4fb8-98cd-96767b8d46d2,Insurance,8,purchased,2024-10-22
+f6abd87a-e3cf-4fb8-98cd-96767b8d46d2,Credit cards,6,viewed,2024-07-21
+f6abd87a-e3cf-4fb8-98cd-96767b8d46d2,Debit cards,7,purchased,2024-10-15
+f6abd87a-e3cf-4fb8-98cd-96767b8d46d2,Loans,1,viewed,2024-07-31
+f6abd87a-e3cf-4fb8-98cd-96767b8d46d2,Mobile banking,4,viewed,2024-05-15
+31526353-4fa4-47fe-8bad-4ac54778f600,Loans,1,clicked,2024-12-03
+31526353-4fa4-47fe-8bad-4ac54778f600,Debit cards,7,purchased,2024-03-18
+31526353-4fa4-47fe-8bad-4ac54778f600,Loans,1,clicked,2024-08-25
+31526353-4fa4-47fe-8bad-4ac54778f600,Financial education,5,purchased,2024-01-23
+31526353-4fa4-47fe-8bad-4ac54778f600,Internet banking,3,purchased,2024-02-29
+31526353-4fa4-47fe-8bad-4ac54778f600,Savings accounts,2,clicked,2024-06-04
+31526353-4fa4-47fe-8bad-4ac54778f600,Internet banking,3,clicked,2024-08-29
+31526353-4fa4-47fe-8bad-4ac54778f600,Mobile banking,4,viewed,2024-04-26
+31526353-4fa4-47fe-8bad-4ac54778f600,Mobile banking,4,purchased,2024-04-30
+31526353-4fa4-47fe-8bad-4ac54778f600,Insurance,8,viewed,2024-03-10
+31526353-4fa4-47fe-8bad-4ac54778f600,Insurance,8,clicked,2024-05-09
+31526353-4fa4-47fe-8bad-4ac54778f600,Financial education,5,viewed,2024-10-22
+31526353-4fa4-47fe-8bad-4ac54778f600,Internet banking,3,purchased,2024-01-13
+31526353-4fa4-47fe-8bad-4ac54778f600,Insurance,8,purchased,2024-03-11
+31526353-4fa4-47fe-8bad-4ac54778f600,Savings accounts,2,viewed,2024-08-29
+17fa1ba0-766a-4cb8-9ff2-cb67e2a42912,Credit cards,6,viewed,2024-11-17
+17fa1ba0-766a-4cb8-9ff2-cb67e2a42912,Financial education,5,clicked,2024-06-15
+17fa1ba0-766a-4cb8-9ff2-cb67e2a42912,Savings accounts,2,purchased,2024-09-20
+17fa1ba0-766a-4cb8-9ff2-cb67e2a42912,Insurance,8,clicked,2024-08-31
+17fa1ba0-766a-4cb8-9ff2-cb67e2a42912,Internet banking,3,purchased,2024-05-10
+17fa1ba0-766a-4cb8-9ff2-cb67e2a42912,Financial education,5,clicked,2024-11-14
+17fa1ba0-766a-4cb8-9ff2-cb67e2a42912,Credit cards,6,viewed,2024-08-14
+17fa1ba0-766a-4cb8-9ff2-cb67e2a42912,Financial education,5,purchased,2024-11-01
+17fa1ba0-766a-4cb8-9ff2-cb67e2a42912,Internet banking,3,viewed,2024-05-04
+17fa1ba0-766a-4cb8-9ff2-cb67e2a42912,Financial education,5,purchased,2024-07-24
+17fa1ba0-766a-4cb8-9ff2-cb67e2a42912,Financial education,5,purchased,2024-07-19
+17fa1ba0-766a-4cb8-9ff2-cb67e2a42912,Credit cards,6,viewed,2024-05-01
+17fa1ba0-766a-4cb8-9ff2-cb67e2a42912,Debit cards,7,clicked,2024-04-01
+17fa1ba0-766a-4cb8-9ff2-cb67e2a42912,Insurance,8,purchased,2024-05-11
+17fa1ba0-766a-4cb8-9ff2-cb67e2a42912,Financial education,5,purchased,2024-09-03
+7061bc7d-a310-4367-96a5-6e014473315a,Savings accounts,2,clicked,2024-07-07
+7061bc7d-a310-4367-96a5-6e014473315a,Insurance,8,purchased,2024-01-08
+7061bc7d-a310-4367-96a5-6e014473315a,Debit cards,7,purchased,2024-06-18
+7061bc7d-a310-4367-96a5-6e014473315a,Mobile banking,4,purchased,2024-02-03
+7061bc7d-a310-4367-96a5-6e014473315a,Credit cards,6,viewed,2024-07-30
+7061bc7d-a310-4367-96a5-6e014473315a,Financial education,5,clicked,2024-05-29
+7061bc7d-a310-4367-96a5-6e014473315a,Financial education,5,clicked,2024-04-20
+7061bc7d-a310-4367-96a5-6e014473315a,Insurance,8,clicked,2024-11-18
+7061bc7d-a310-4367-96a5-6e014473315a,Debit cards,7,clicked,2024-07-29
+7061bc7d-a310-4367-96a5-6e014473315a,Loans,1,clicked,2024-06-25
+7061bc7d-a310-4367-96a5-6e014473315a,Loans,1,purchased,2024-08-02
+7061bc7d-a310-4367-96a5-6e014473315a,Mobile banking,4,purchased,2024-08-02
+7061bc7d-a310-4367-96a5-6e014473315a,Insurance,8,viewed,2024-07-16
+7061bc7d-a310-4367-96a5-6e014473315a,Financial education,5,clicked,2024-03-08
+7061bc7d-a310-4367-96a5-6e014473315a,Mobile banking,4,purchased,2024-05-04
+1b29cafb-b184-4e25-855a-19b197ca991a,Mobile banking,4,purchased,2024-04-27
+1b29cafb-b184-4e25-855a-19b197ca991a,Internet banking,3,clicked,2024-09-22
+1b29cafb-b184-4e25-855a-19b197ca991a,Financial education,5,viewed,2024-03-06
+1b29cafb-b184-4e25-855a-19b197ca991a,Loans,1,viewed,2024-02-25
+1b29cafb-b184-4e25-855a-19b197ca991a,Internet banking,3,clicked,2024-04-21
+1b29cafb-b184-4e25-855a-19b197ca991a,Internet banking,3,purchased,2024-02-15
+1b29cafb-b184-4e25-855a-19b197ca991a,Insurance,8,clicked,2024-03-29
+1b29cafb-b184-4e25-855a-19b197ca991a,Savings accounts,2,viewed,2024-03-10
+1b29cafb-b184-4e25-855a-19b197ca991a,Mobile banking,4,clicked,2024-04-05
+1b29cafb-b184-4e25-855a-19b197ca991a,Credit cards,6,clicked,2024-03-12
+1b29cafb-b184-4e25-855a-19b197ca991a,Financial education,5,clicked,2024-01-22
+1b29cafb-b184-4e25-855a-19b197ca991a,Loans,1,clicked,2024-08-30
+1b29cafb-b184-4e25-855a-19b197ca991a,Internet banking,3,clicked,2024-06-10
+1b29cafb-b184-4e25-855a-19b197ca991a,Loans,1,purchased,2024-01-20
+1b29cafb-b184-4e25-855a-19b197ca991a,Mobile banking,4,clicked,2024-05-26
+63adc6da-b47d-4932-a676-56f997d0b29e,Credit cards,6,viewed,2024-10-12
+63adc6da-b47d-4932-a676-56f997d0b29e,Debit cards,7,purchased,2024-05-18
+63adc6da-b47d-4932-a676-56f997d0b29e,Debit cards,7,clicked,2024-08-22
+63adc6da-b47d-4932-a676-56f997d0b29e,Insurance,8,purchased,2024-05-22
+63adc6da-b47d-4932-a676-56f997d0b29e,Credit cards,6,viewed,2024-08-17
+63adc6da-b47d-4932-a676-56f997d0b29e,Internet banking,3,viewed,2024-11-09
+63adc6da-b47d-4932-a676-56f997d0b29e,Debit cards,7,purchased,2024-10-29
+63adc6da-b47d-4932-a676-56f997d0b29e,Insurance,8,viewed,2024-09-05
+63adc6da-b47d-4932-a676-56f997d0b29e,Mobile banking,4,purchased,2024-03-09
+63adc6da-b47d-4932-a676-56f997d0b29e,Insurance,8,viewed,2024-04-01
+63adc6da-b47d-4932-a676-56f997d0b29e,Insurance,8,clicked,2024-04-27
+63adc6da-b47d-4932-a676-56f997d0b29e,Savings accounts,2,purchased,2024-08-01
+63adc6da-b47d-4932-a676-56f997d0b29e,Insurance,8,viewed,2024-08-17
+63adc6da-b47d-4932-a676-56f997d0b29e,Credit cards,6,viewed,2024-11-08
+63adc6da-b47d-4932-a676-56f997d0b29e,Credit cards,6,purchased,2024-11-25
+8f73fa70-c08e-4607-b6d2-2370b0c07d3d,Financial education,5,clicked,2024-05-19
+8f73fa70-c08e-4607-b6d2-2370b0c07d3d,Loans,1,purchased,2024-05-18
+8f73fa70-c08e-4607-b6d2-2370b0c07d3d,Savings accounts,2,clicked,2024-06-16
+8f73fa70-c08e-4607-b6d2-2370b0c07d3d,Loans,1,clicked,2024-06-10
+8f73fa70-c08e-4607-b6d2-2370b0c07d3d,Credit cards,6,clicked,2024-05-21
+8f73fa70-c08e-4607-b6d2-2370b0c07d3d,Loans,1,clicked,2024-03-20
+8f73fa70-c08e-4607-b6d2-2370b0c07d3d,Insurance,8,clicked,2024-05-05
+8f73fa70-c08e-4607-b6d2-2370b0c07d3d,Credit cards,6,purchased,2024-10-03
+8f73fa70-c08e-4607-b6d2-2370b0c07d3d,Financial education,5,purchased,2024-10-04
+8f73fa70-c08e-4607-b6d2-2370b0c07d3d,Internet banking,3,clicked,2024-01-06
+8f73fa70-c08e-4607-b6d2-2370b0c07d3d,Internet banking,3,clicked,2024-01-03
+8f73fa70-c08e-4607-b6d2-2370b0c07d3d,Credit cards,6,viewed,2024-08-01
+8f73fa70-c08e-4607-b6d2-2370b0c07d3d,Debit cards,7,viewed,2024-04-08
+8f73fa70-c08e-4607-b6d2-2370b0c07d3d,Loans,1,clicked,2024-12-01
+8f73fa70-c08e-4607-b6d2-2370b0c07d3d,Insurance,8,viewed,2024-07-09
+109d2c17-a62b-4825-87fe-46db5cebb8f1,Credit cards,6,purchased,2024-06-06
+109d2c17-a62b-4825-87fe-46db5cebb8f1,Financial education,5,viewed,2024-06-08
+109d2c17-a62b-4825-87fe-46db5cebb8f1,Insurance,8,purchased,2024-03-13
+109d2c17-a62b-4825-87fe-46db5cebb8f1,Mobile banking,4,viewed,2024-09-07
+109d2c17-a62b-4825-87fe-46db5cebb8f1,Financial education,5,purchased,2024-07-20
+109d2c17-a62b-4825-87fe-46db5cebb8f1,Insurance,8,purchased,2024-10-15
+109d2c17-a62b-4825-87fe-46db5cebb8f1,Mobile banking,4,viewed,2024-05-31
+109d2c17-a62b-4825-87fe-46db5cebb8f1,Internet banking,3,purchased,2024-03-06
+109d2c17-a62b-4825-87fe-46db5cebb8f1,Savings accounts,2,viewed,2024-04-19
+109d2c17-a62b-4825-87fe-46db5cebb8f1,Internet banking,3,purchased,2024-07-17
+109d2c17-a62b-4825-87fe-46db5cebb8f1,Insurance,8,viewed,2024-03-31
+109d2c17-a62b-4825-87fe-46db5cebb8f1,Internet banking,3,purchased,2024-08-06
+109d2c17-a62b-4825-87fe-46db5cebb8f1,Insurance,8,purchased,2024-05-04
+109d2c17-a62b-4825-87fe-46db5cebb8f1,Debit cards,7,clicked,2024-04-28
+109d2c17-a62b-4825-87fe-46db5cebb8f1,Credit cards,6,clicked,2024-08-29
+28adfced-2b7f-4196-8b0c-75035360f683,Internet banking,3,clicked,2024-03-22
+28adfced-2b7f-4196-8b0c-75035360f683,Financial education,5,purchased,2024-11-15
+28adfced-2b7f-4196-8b0c-75035360f683,Debit cards,7,purchased,2024-07-25
+28adfced-2b7f-4196-8b0c-75035360f683,Mobile banking,4,purchased,2024-11-06
+28adfced-2b7f-4196-8b0c-75035360f683,Loans,1,viewed,2024-06-20
+28adfced-2b7f-4196-8b0c-75035360f683,Debit cards,7,purchased,2024-03-19
+28adfced-2b7f-4196-8b0c-75035360f683,Savings accounts,2,clicked,2024-01-02
+28adfced-2b7f-4196-8b0c-75035360f683,Loans,1,clicked,2024-07-14
+28adfced-2b7f-4196-8b0c-75035360f683,Insurance,8,purchased,2024-06-03
+28adfced-2b7f-4196-8b0c-75035360f683,Financial education,5,purchased,2024-01-25
+28adfced-2b7f-4196-8b0c-75035360f683,Credit cards,6,purchased,2024-06-08
+28adfced-2b7f-4196-8b0c-75035360f683,Financial education,5,viewed,2024-10-25
+28adfced-2b7f-4196-8b0c-75035360f683,Mobile banking,4,viewed,2024-03-24
+28adfced-2b7f-4196-8b0c-75035360f683,Savings accounts,2,clicked,2024-11-07
+28adfced-2b7f-4196-8b0c-75035360f683,Internet banking,3,purchased,2024-01-01
+4d5fb4dd-b1f0-4323-bc86-6f03973b8855,Internet banking,3,clicked,2024-06-13
+4d5fb4dd-b1f0-4323-bc86-6f03973b8855,Financial education,5,purchased,2024-11-24
+4d5fb4dd-b1f0-4323-bc86-6f03973b8855,Internet banking,3,clicked,2024-09-09
+4d5fb4dd-b1f0-4323-bc86-6f03973b8855,Mobile banking,4,clicked,2024-09-26
+4d5fb4dd-b1f0-4323-bc86-6f03973b8855,Financial education,5,clicked,2024-02-15
+4d5fb4dd-b1f0-4323-bc86-6f03973b8855,Loans,1,viewed,2024-01-10
+4d5fb4dd-b1f0-4323-bc86-6f03973b8855,Debit cards,7,clicked,2024-04-18
+4d5fb4dd-b1f0-4323-bc86-6f03973b8855,Financial education,5,purchased,2024-10-21
+4d5fb4dd-b1f0-4323-bc86-6f03973b8855,Internet banking,3,clicked,2024-04-11
+4d5fb4dd-b1f0-4323-bc86-6f03973b8855,Debit cards,7,purchased,2024-03-08
+4d5fb4dd-b1f0-4323-bc86-6f03973b8855,Loans,1,purchased,2024-10-27
+4d5fb4dd-b1f0-4323-bc86-6f03973b8855,Internet banking,3,purchased,2024-09-29
+4d5fb4dd-b1f0-4323-bc86-6f03973b8855,Credit cards,6,viewed,2024-02-03
+4d5fb4dd-b1f0-4323-bc86-6f03973b8855,Credit cards,6,clicked,2024-04-26
+4d5fb4dd-b1f0-4323-bc86-6f03973b8855,Credit cards,6,clicked,2024-09-28
+f123dec0-57ab-4f4a-b2ef-5988783e9845,Credit cards,6,purchased,2024-11-17
+f123dec0-57ab-4f4a-b2ef-5988783e9845,Credit cards,6,purchased,2024-03-06
+f123dec0-57ab-4f4a-b2ef-5988783e9845,Savings accounts,2,clicked,2024-01-30
+f123dec0-57ab-4f4a-b2ef-5988783e9845,Credit cards,6,viewed,2024-08-18
+f123dec0-57ab-4f4a-b2ef-5988783e9845,Mobile banking,4,clicked,2024-11-22
+f123dec0-57ab-4f4a-b2ef-5988783e9845,Mobile banking,4,viewed,2024-12-04
+f123dec0-57ab-4f4a-b2ef-5988783e9845,Debit cards,7,clicked,2024-11-22
+f123dec0-57ab-4f4a-b2ef-5988783e9845,Financial education,5,purchased,2024-01-28
+f123dec0-57ab-4f4a-b2ef-5988783e9845,Insurance,8,purchased,2024-08-23
+f123dec0-57ab-4f4a-b2ef-5988783e9845,Financial education,5,viewed,2024-06-22
+f123dec0-57ab-4f4a-b2ef-5988783e9845,Mobile banking,4,purchased,2024-07-12
+f123dec0-57ab-4f4a-b2ef-5988783e9845,Mobile banking,4,viewed,2024-05-16
+f123dec0-57ab-4f4a-b2ef-5988783e9845,Mobile banking,4,viewed,2024-05-19
+f123dec0-57ab-4f4a-b2ef-5988783e9845,Loans,1,clicked,2024-03-10
+f123dec0-57ab-4f4a-b2ef-5988783e9845,Savings accounts,2,viewed,2024-02-29
+22b1c9d7-8c56-4e87-b5fa-4cb59480287e,Credit cards,6,viewed,2024-10-05
+22b1c9d7-8c56-4e87-b5fa-4cb59480287e,Financial education,5,viewed,2024-04-27
+22b1c9d7-8c56-4e87-b5fa-4cb59480287e,Loans,1,clicked,2024-02-22
+22b1c9d7-8c56-4e87-b5fa-4cb59480287e,Insurance,8,purchased,2024-11-26
+22b1c9d7-8c56-4e87-b5fa-4cb59480287e,Loans,1,purchased,2024-05-09
+22b1c9d7-8c56-4e87-b5fa-4cb59480287e,Debit cards,7,clicked,2024-03-26
+22b1c9d7-8c56-4e87-b5fa-4cb59480287e,Insurance,8,viewed,2024-02-14
+22b1c9d7-8c56-4e87-b5fa-4cb59480287e,Mobile banking,4,clicked,2024-05-31
+22b1c9d7-8c56-4e87-b5fa-4cb59480287e,Loans,1,purchased,2024-09-22
+22b1c9d7-8c56-4e87-b5fa-4cb59480287e,Financial education,5,purchased,2024-06-15
+22b1c9d7-8c56-4e87-b5fa-4cb59480287e,Insurance,8,purchased,2024-08-27
+22b1c9d7-8c56-4e87-b5fa-4cb59480287e,Insurance,8,clicked,2024-10-15
+22b1c9d7-8c56-4e87-b5fa-4cb59480287e,Savings accounts,2,clicked,2024-04-08
+22b1c9d7-8c56-4e87-b5fa-4cb59480287e,Debit cards,7,viewed,2024-11-07
+22b1c9d7-8c56-4e87-b5fa-4cb59480287e,Financial education,5,viewed,2024-02-01
+53117950-c4c4-4a2e-b216-2f153020d844,Internet banking,3,viewed,2024-01-17
+53117950-c4c4-4a2e-b216-2f153020d844,Debit cards,7,viewed,2024-03-17
+53117950-c4c4-4a2e-b216-2f153020d844,Insurance,8,viewed,2024-11-05
+53117950-c4c4-4a2e-b216-2f153020d844,Internet banking,3,viewed,2024-12-03
+53117950-c4c4-4a2e-b216-2f153020d844,Insurance,8,clicked,2024-10-29
+53117950-c4c4-4a2e-b216-2f153020d844,Insurance,8,purchased,2024-05-28
+53117950-c4c4-4a2e-b216-2f153020d844,Debit cards,7,purchased,2024-05-06
+53117950-c4c4-4a2e-b216-2f153020d844,Mobile banking,4,purchased,2024-11-08
+53117950-c4c4-4a2e-b216-2f153020d844,Mobile banking,4,viewed,2024-04-04
+53117950-c4c4-4a2e-b216-2f153020d844,Insurance,8,viewed,2024-03-06
+53117950-c4c4-4a2e-b216-2f153020d844,Insurance,8,purchased,2024-11-02
+53117950-c4c4-4a2e-b216-2f153020d844,Mobile banking,4,viewed,2024-05-25
+53117950-c4c4-4a2e-b216-2f153020d844,Mobile banking,4,clicked,2024-09-27
+53117950-c4c4-4a2e-b216-2f153020d844,Insurance,8,purchased,2024-04-03
+53117950-c4c4-4a2e-b216-2f153020d844,Internet banking,3,purchased,2024-05-26
+2e85fb1e-bc04-41b9-8b5c-5b4484768884,Financial education,5,clicked,2024-08-08
+2e85fb1e-bc04-41b9-8b5c-5b4484768884,Credit cards,6,viewed,2024-08-01
+2e85fb1e-bc04-41b9-8b5c-5b4484768884,Financial education,5,viewed,2024-09-01
+2e85fb1e-bc04-41b9-8b5c-5b4484768884,Financial education,5,purchased,2024-11-27
+2e85fb1e-bc04-41b9-8b5c-5b4484768884,Internet banking,3,viewed,2024-02-03
+2e85fb1e-bc04-41b9-8b5c-5b4484768884,Loans,1,purchased,2024-10-22
+2e85fb1e-bc04-41b9-8b5c-5b4484768884,Savings accounts,2,purchased,2024-08-29
+2e85fb1e-bc04-41b9-8b5c-5b4484768884,Debit cards,7,purchased,2024-03-25
+2e85fb1e-bc04-41b9-8b5c-5b4484768884,Savings accounts,2,clicked,2024-07-09
+2e85fb1e-bc04-41b9-8b5c-5b4484768884,Financial education,5,purchased,2024-06-09
+2e85fb1e-bc04-41b9-8b5c-5b4484768884,Insurance,8,purchased,2024-01-19
+2e85fb1e-bc04-41b9-8b5c-5b4484768884,Internet banking,3,clicked,2024-01-23
+2e85fb1e-bc04-41b9-8b5c-5b4484768884,Internet banking,3,clicked,2024-04-25
+2e85fb1e-bc04-41b9-8b5c-5b4484768884,Credit cards,6,viewed,2024-04-18
+2e85fb1e-bc04-41b9-8b5c-5b4484768884,Savings accounts,2,purchased,2024-08-26
+29313937-802c-4b70-88ab-9a37bf82e191,Financial education,5,viewed,2024-03-17
+29313937-802c-4b70-88ab-9a37bf82e191,Mobile banking,4,purchased,2024-09-28
+29313937-802c-4b70-88ab-9a37bf82e191,Financial education,5,viewed,2024-02-04
+29313937-802c-4b70-88ab-9a37bf82e191,Internet banking,3,purchased,2024-06-27
+29313937-802c-4b70-88ab-9a37bf82e191,Financial education,5,viewed,2024-06-21
+29313937-802c-4b70-88ab-9a37bf82e191,Savings accounts,2,viewed,2024-02-26
+29313937-802c-4b70-88ab-9a37bf82e191,Savings accounts,2,purchased,2024-11-15
+29313937-802c-4b70-88ab-9a37bf82e191,Internet banking,3,viewed,2024-11-11
+29313937-802c-4b70-88ab-9a37bf82e191,Debit cards,7,clicked,2024-06-28
+29313937-802c-4b70-88ab-9a37bf82e191,Internet banking,3,purchased,2024-04-26
+29313937-802c-4b70-88ab-9a37bf82e191,Savings accounts,2,viewed,2024-06-09
+29313937-802c-4b70-88ab-9a37bf82e191,Insurance,8,purchased,2024-04-16
+29313937-802c-4b70-88ab-9a37bf82e191,Insurance,8,purchased,2024-06-07
+29313937-802c-4b70-88ab-9a37bf82e191,Internet banking,3,purchased,2024-04-09
+29313937-802c-4b70-88ab-9a37bf82e191,Debit cards,7,purchased,2024-02-28
+4868a1d5-62df-4879-934d-ff6ea4d25511,Credit cards,6,clicked,2024-09-06
+4868a1d5-62df-4879-934d-ff6ea4d25511,Loans,1,clicked,2024-03-23
+4868a1d5-62df-4879-934d-ff6ea4d25511,Financial education,5,clicked,2024-08-20
+4868a1d5-62df-4879-934d-ff6ea4d25511,Internet banking,3,clicked,2024-07-11
+4868a1d5-62df-4879-934d-ff6ea4d25511,Savings accounts,2,viewed,2024-09-11
+4868a1d5-62df-4879-934d-ff6ea4d25511,Financial education,5,viewed,2024-05-10
+4868a1d5-62df-4879-934d-ff6ea4d25511,Mobile banking,4,purchased,2024-07-01
+4868a1d5-62df-4879-934d-ff6ea4d25511,Credit cards,6,clicked,2024-11-13
+4868a1d5-62df-4879-934d-ff6ea4d25511,Debit cards,7,purchased,2024-08-28
+4868a1d5-62df-4879-934d-ff6ea4d25511,Financial education,5,clicked,2024-11-25
+4868a1d5-62df-4879-934d-ff6ea4d25511,Mobile banking,4,clicked,2024-03-02
+4868a1d5-62df-4879-934d-ff6ea4d25511,Insurance,8,purchased,2024-06-20
+4868a1d5-62df-4879-934d-ff6ea4d25511,Credit cards,6,purchased,2024-03-25
+4868a1d5-62df-4879-934d-ff6ea4d25511,Insurance,8,viewed,2024-04-07
+4868a1d5-62df-4879-934d-ff6ea4d25511,Credit cards,6,purchased,2024-06-28
+4d01fe50-eeee-45bd-ad2c-a19d18e28e51,Loans,1,clicked,2024-02-04
+4d01fe50-eeee-45bd-ad2c-a19d18e28e51,Debit cards,7,clicked,2024-11-20
+4d01fe50-eeee-45bd-ad2c-a19d18e28e51,Insurance,8,clicked,2024-01-31
+4d01fe50-eeee-45bd-ad2c-a19d18e28e51,Savings accounts,2,purchased,2024-10-01
+4d01fe50-eeee-45bd-ad2c-a19d18e28e51,Financial education,5,purchased,2024-09-02
+4d01fe50-eeee-45bd-ad2c-a19d18e28e51,Savings accounts,2,viewed,2024-03-01
+4d01fe50-eeee-45bd-ad2c-a19d18e28e51,Insurance,8,viewed,2024-07-25
+4d01fe50-eeee-45bd-ad2c-a19d18e28e51,Internet banking,3,purchased,2024-01-04
+4d01fe50-eeee-45bd-ad2c-a19d18e28e51,Mobile banking,4,clicked,2024-01-20
+4d01fe50-eeee-45bd-ad2c-a19d18e28e51,Savings accounts,2,viewed,2024-03-28
+4d01fe50-eeee-45bd-ad2c-a19d18e28e51,Financial education,5,viewed,2024-11-16
+4d01fe50-eeee-45bd-ad2c-a19d18e28e51,Internet banking,3,viewed,2024-11-24
+4d01fe50-eeee-45bd-ad2c-a19d18e28e51,Mobile banking,4,viewed,2024-10-27
+4d01fe50-eeee-45bd-ad2c-a19d18e28e51,Mobile banking,4,viewed,2024-02-11
+4d01fe50-eeee-45bd-ad2c-a19d18e28e51,Debit cards,7,purchased,2024-06-14
+758260c9-74ea-4976-a505-0dde05644c62,Internet banking,3,viewed,2024-07-02
+758260c9-74ea-4976-a505-0dde05644c62,Internet banking,3,purchased,2024-06-27
+758260c9-74ea-4976-a505-0dde05644c62,Mobile banking,4,viewed,2024-12-07
+758260c9-74ea-4976-a505-0dde05644c62,Savings accounts,2,clicked,2024-10-16
+758260c9-74ea-4976-a505-0dde05644c62,Credit cards,6,clicked,2024-09-19
+758260c9-74ea-4976-a505-0dde05644c62,Loans,1,clicked,2024-05-14
+758260c9-74ea-4976-a505-0dde05644c62,Loans,1,viewed,2024-11-22
+758260c9-74ea-4976-a505-0dde05644c62,Internet banking,3,clicked,2024-06-13
+758260c9-74ea-4976-a505-0dde05644c62,Financial education,5,purchased,2024-05-21
+758260c9-74ea-4976-a505-0dde05644c62,Loans,1,purchased,2024-01-28
+758260c9-74ea-4976-a505-0dde05644c62,Internet banking,3,purchased,2024-01-17
+758260c9-74ea-4976-a505-0dde05644c62,Insurance,8,clicked,2024-06-10
+758260c9-74ea-4976-a505-0dde05644c62,Financial education,5,purchased,2024-07-27
+758260c9-74ea-4976-a505-0dde05644c62,Loans,1,clicked,2024-06-10
+758260c9-74ea-4976-a505-0dde05644c62,Insurance,8,clicked,2024-03-04
+33e70a04-a7fe-4922-9776-49cd7b4f1a03,Savings accounts,2,viewed,2024-10-05
+33e70a04-a7fe-4922-9776-49cd7b4f1a03,Credit cards,6,viewed,2024-07-26
+33e70a04-a7fe-4922-9776-49cd7b4f1a03,Savings accounts,2,clicked,2024-01-08
+33e70a04-a7fe-4922-9776-49cd7b4f1a03,Savings accounts,2,viewed,2024-02-18
+33e70a04-a7fe-4922-9776-49cd7b4f1a03,Financial education,5,purchased,2024-04-20
+33e70a04-a7fe-4922-9776-49cd7b4f1a03,Savings accounts,2,viewed,2024-02-02
+33e70a04-a7fe-4922-9776-49cd7b4f1a03,Loans,1,clicked,2024-05-10
+33e70a04-a7fe-4922-9776-49cd7b4f1a03,Savings accounts,2,clicked,2024-07-28
+33e70a04-a7fe-4922-9776-49cd7b4f1a03,Debit cards,7,viewed,2024-03-31
+33e70a04-a7fe-4922-9776-49cd7b4f1a03,Debit cards,7,clicked,2024-08-15
+33e70a04-a7fe-4922-9776-49cd7b4f1a03,Loans,1,viewed,2024-02-23
+33e70a04-a7fe-4922-9776-49cd7b4f1a03,Mobile banking,4,clicked,2024-08-22
+33e70a04-a7fe-4922-9776-49cd7b4f1a03,Credit cards,6,purchased,2024-10-29
+33e70a04-a7fe-4922-9776-49cd7b4f1a03,Credit cards,6,clicked,2024-08-08
+33e70a04-a7fe-4922-9776-49cd7b4f1a03,Savings accounts,2,viewed,2024-11-15
+97770788-4016-4cd5-850f-49db47b1ec68,Insurance,8,clicked,2024-02-13
+97770788-4016-4cd5-850f-49db47b1ec68,Savings accounts,2,clicked,2024-01-15
+97770788-4016-4cd5-850f-49db47b1ec68,Credit cards,6,purchased,2024-11-04
+97770788-4016-4cd5-850f-49db47b1ec68,Savings accounts,2,viewed,2024-02-02
+97770788-4016-4cd5-850f-49db47b1ec68,Savings accounts,2,viewed,2024-08-21
+97770788-4016-4cd5-850f-49db47b1ec68,Financial education,5,purchased,2024-01-14
+97770788-4016-4cd5-850f-49db47b1ec68,Mobile banking,4,viewed,2024-02-20
+97770788-4016-4cd5-850f-49db47b1ec68,Debit cards,7,purchased,2024-01-04
+97770788-4016-4cd5-850f-49db47b1ec68,Mobile banking,4,clicked,2024-10-20
+97770788-4016-4cd5-850f-49db47b1ec68,Credit cards,6,clicked,2024-06-24
+97770788-4016-4cd5-850f-49db47b1ec68,Loans,1,clicked,2024-09-13
+97770788-4016-4cd5-850f-49db47b1ec68,Loans,1,viewed,2024-03-18
+97770788-4016-4cd5-850f-49db47b1ec68,Internet banking,3,clicked,2024-11-06
+97770788-4016-4cd5-850f-49db47b1ec68,Internet banking,3,purchased,2024-06-20
+97770788-4016-4cd5-850f-49db47b1ec68,Credit cards,6,viewed,2024-08-20
+699bae3b-708c-4c20-a4db-5e9b74e40a78,Mobile banking,4,clicked,2024-07-26
+699bae3b-708c-4c20-a4db-5e9b74e40a78,Loans,1,clicked,2024-02-25
+699bae3b-708c-4c20-a4db-5e9b74e40a78,Mobile banking,4,clicked,2024-05-30
+699bae3b-708c-4c20-a4db-5e9b74e40a78,Debit cards,7,purchased,2024-10-23
+699bae3b-708c-4c20-a4db-5e9b74e40a78,Mobile banking,4,viewed,2024-04-30
+699bae3b-708c-4c20-a4db-5e9b74e40a78,Internet banking,3,viewed,2024-10-26
+699bae3b-708c-4c20-a4db-5e9b74e40a78,Internet banking,3,clicked,2024-11-07
+699bae3b-708c-4c20-a4db-5e9b74e40a78,Mobile banking,4,clicked,2024-08-19
+699bae3b-708c-4c20-a4db-5e9b74e40a78,Savings accounts,2,clicked,2024-10-10
+699bae3b-708c-4c20-a4db-5e9b74e40a78,Savings accounts,2,purchased,2024-05-17
+699bae3b-708c-4c20-a4db-5e9b74e40a78,Internet banking,3,viewed,2024-01-08
+699bae3b-708c-4c20-a4db-5e9b74e40a78,Mobile banking,4,purchased,2024-08-21
+699bae3b-708c-4c20-a4db-5e9b74e40a78,Mobile banking,4,purchased,2024-07-15
+699bae3b-708c-4c20-a4db-5e9b74e40a78,Debit cards,7,purchased,2024-04-09
+699bae3b-708c-4c20-a4db-5e9b74e40a78,Debit cards,7,viewed,2024-07-06
